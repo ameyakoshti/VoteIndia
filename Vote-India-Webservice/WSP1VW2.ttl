@@ -1,0 +1,1374 @@
+<http://example.com/India/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/India/Services_growth/2005> <http://example.com/state> "India" .
+<http://example.com/India/Services_growth/2005> <http://example.com/value> "10.91" .
+<http://example.com/India/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/India/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/India/Services_growth/2006> <http://example.com/state> "India" .
+<http://example.com/India/Services_growth/2006> <http://example.com/value> "10.06" .
+<http://example.com/India/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/India/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/India/Services_growth/2007> <http://example.com/state> "India" .
+<http://example.com/India/Services_growth/2007> <http://example.com/value> "10.27" .
+<http://example.com/India/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/India/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/India/Services_growth/2008> <http://example.com/state> "India" .
+<http://example.com/India/Services_growth/2008> <http://example.com/value> "9.98" .
+<http://example.com/India/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/India/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/India/Services_growth/2009> <http://example.com/state> "India" .
+<http://example.com/India/Services_growth/2009> <http://example.com/value> "10.5" .
+<http://example.com/India/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/India/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/India/Services_growth/2010> <http://example.com/state> "India" .
+<http://example.com/India/Services_growth/2010> <http://example.com/value> "9.75" .
+<http://example.com/India/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/India/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/India/Services_growth/2011> <http://example.com/state> "India" .
+<http://example.com/India/Services_growth/2011> <http://example.com/value> "8.2" .
+<http://example.com/India/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2005> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2005> <http://example.com/value> "7.16" .
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2006> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2006> <http://example.com/value> "2.43" .
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2007> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2007> <http://example.com/value> "7.52" .
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2008> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2008> <http://example.com/value> "41.02" .
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2009> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2009> <http://example.com/value> "22.01" .
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2010> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2010> <http://example.com/value> "10.07" .
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2011> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2011> <http://example.com/value> "7.2" .
+<http://example.com/Andaman_&_Nicobar_Islands/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Andhra_Pradesh/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Andhra_Pradesh/Services_growth/2005> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Services_growth/2005> <http://example.com/value> "11.04" .
+<http://example.com/Andhra_Pradesh/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Andhra_Pradesh/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Andhra_Pradesh/Services_growth/2006> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Services_growth/2006> <http://example.com/value> "12.48" .
+<http://example.com/Andhra_Pradesh/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Andhra_Pradesh/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Andhra_Pradesh/Services_growth/2007> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Services_growth/2007> <http://example.com/value> "10.3" .
+<http://example.com/Andhra_Pradesh/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Andhra_Pradesh/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Andhra_Pradesh/Services_growth/2008> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Services_growth/2008> <http://example.com/value> "9.53" .
+<http://example.com/Andhra_Pradesh/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Andhra_Pradesh/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Andhra_Pradesh/Services_growth/2009> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Services_growth/2009> <http://example.com/value> "7.75" .
+<http://example.com/Andhra_Pradesh/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Andhra_Pradesh/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Andhra_Pradesh/Services_growth/2010> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Services_growth/2010> <http://example.com/value> "10.7" .
+<http://example.com/Andhra_Pradesh/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Andhra_Pradesh/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/Andhra_Pradesh/Services_growth/2011> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Services_growth/2011> <http://example.com/value> "9.95" .
+<http://example.com/Andhra_Pradesh/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Arunachal_Pradesh/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Arunachal_Pradesh/Services_growth/2005> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Services_growth/2005> <http://example.com/value> "6.67" .
+<http://example.com/Arunachal_Pradesh/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Arunachal_Pradesh/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Arunachal_Pradesh/Services_growth/2006> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Services_growth/2006> <http://example.com/value> "8.46" .
+<http://example.com/Arunachal_Pradesh/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Arunachal_Pradesh/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Arunachal_Pradesh/Services_growth/2007> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Services_growth/2007> <http://example.com/value> "7.85" .
+<http://example.com/Arunachal_Pradesh/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Arunachal_Pradesh/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Arunachal_Pradesh/Services_growth/2008> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Services_growth/2008> <http://example.com/value> "11.87" .
+<http://example.com/Arunachal_Pradesh/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Arunachal_Pradesh/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Arunachal_Pradesh/Services_growth/2009> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Services_growth/2009> <http://example.com/value> "36.61" .
+<http://example.com/Arunachal_Pradesh/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Arunachal_Pradesh/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Arunachal_Pradesh/Services_growth/2010> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Services_growth/2010> <http://example.com/value> "-8.1" .
+<http://example.com/Arunachal_Pradesh/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Arunachal_Pradesh/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/Arunachal_Pradesh/Services_growth/2011> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Services_growth/2011> <http://example.com/value> "2.87" .
+<http://example.com/Arunachal_Pradesh/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Assam/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Assam/Services_growth/2005> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Services_growth/2005> <http://example.com/value> "7.93" .
+<http://example.com/Assam/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Assam/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Assam/Services_growth/2006> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Services_growth/2006> <http://example.com/value> "8.55" .
+<http://example.com/Assam/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Assam/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Assam/Services_growth/2007> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Services_growth/2007> <http://example.com/value> "7.79" .
+<http://example.com/Assam/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Assam/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Assam/Services_growth/2008> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Services_growth/2008> <http://example.com/value> "6.93" .
+<http://example.com/Assam/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Assam/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Assam/Services_growth/2009> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Services_growth/2009> <http://example.com/value> "11.07" .
+<http://example.com/Assam/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Assam/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Assam/Services_growth/2010> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Services_growth/2010> <http://example.com/value> "8.76" .
+<http://example.com/Assam/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Assam/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/Assam/Services_growth/2011> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Services_growth/2011> <http://example.com/value> "9.74" .
+<http://example.com/Assam/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Bihar/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Bihar/Services_growth/2005> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Services_growth/2005> <http://example.com/value> "1.12" .
+<http://example.com/Bihar/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Bihar/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Bihar/Services_growth/2006> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Services_growth/2006> <http://example.com/value> "11.97" .
+<http://example.com/Bihar/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Bihar/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Bihar/Services_growth/2007> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Services_growth/2007> <http://example.com/value> "8.95" .
+<http://example.com/Bihar/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Bihar/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Bihar/Services_growth/2008> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Services_growth/2008> <http://example.com/value> "12.02" .
+<http://example.com/Bihar/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Bihar/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Bihar/Services_growth/2009> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Services_growth/2009> <http://example.com/value> "12.26" .
+<http://example.com/Bihar/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Bihar/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Bihar/Services_growth/2010> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Services_growth/2010> <http://example.com/value> "14.45" .
+<http://example.com/Bihar/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Bihar/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/Bihar/Services_growth/2011> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Services_growth/2011> <http://example.com/value> "16.59" .
+<http://example.com/Bihar/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Chandigarh/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chandigarh/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Chandigarh/Services_growth/2005> <http://example.com/state> "Chandigarh" .
+<http://example.com/Chandigarh/Services_growth/2005> <http://example.com/value> "11.5" .
+<http://example.com/Chandigarh/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Chandigarh/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chandigarh/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Chandigarh/Services_growth/2006> <http://example.com/state> "Chandigarh" .
+<http://example.com/Chandigarh/Services_growth/2006> <http://example.com/value> "10.62" .
+<http://example.com/Chandigarh/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Chandigarh/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chandigarh/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Chandigarh/Services_growth/2007> <http://example.com/state> "Chandigarh" .
+<http://example.com/Chandigarh/Services_growth/2007> <http://example.com/value> "8.18" .
+<http://example.com/Chandigarh/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Chandigarh/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chandigarh/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Chandigarh/Services_growth/2008> <http://example.com/state> "Chandigarh" .
+<http://example.com/Chandigarh/Services_growth/2008> <http://example.com/value> "16.56" .
+<http://example.com/Chandigarh/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Chandigarh/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chandigarh/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Chandigarh/Services_growth/2009> <http://example.com/state> "Chandigarh" .
+<http://example.com/Chandigarh/Services_growth/2009> <http://example.com/value> "8.43" .
+<http://example.com/Chandigarh/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Chandigarh/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chandigarh/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Chandigarh/Services_growth/2010> <http://example.com/state> "Chandigarh" .
+<http://example.com/Chandigarh/Services_growth/2010> <http://example.com/value> "7.36" .
+<http://example.com/Chandigarh/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Chandigarh/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chandigarh/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/Chandigarh/Services_growth/2011> <http://example.com/state> "Chandigarh" .
+<http://example.com/Chandigarh/Services_growth/2011> <http://example.com/value> "5.94" .
+<http://example.com/Chandigarh/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Chhattisgarh/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Chhattisgarh/Services_growth/2005> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Services_growth/2005> <http://example.com/value> "6.42" .
+<http://example.com/Chhattisgarh/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Chhattisgarh/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Chhattisgarh/Services_growth/2006> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Services_growth/2006> <http://example.com/value> "11.38" .
+<http://example.com/Chhattisgarh/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Chhattisgarh/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Chhattisgarh/Services_growth/2007> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Services_growth/2007> <http://example.com/value> "9.88" .
+<http://example.com/Chhattisgarh/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Chhattisgarh/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Chhattisgarh/Services_growth/2008> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Services_growth/2008> <http://example.com/value> "11.7" .
+<http://example.com/Chhattisgarh/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Chhattisgarh/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Chhattisgarh/Services_growth/2009> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Services_growth/2009> <http://example.com/value> "9.64" .
+<http://example.com/Chhattisgarh/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Chhattisgarh/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Chhattisgarh/Services_growth/2010> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Services_growth/2010> <http://example.com/value> "11.12" .
+<http://example.com/Chhattisgarh/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Chhattisgarh/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/Chhattisgarh/Services_growth/2011> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Services_growth/2011> <http://example.com/value> "13.54" .
+<http://example.com/Chhattisgarh/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Goa/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Goa/Services_growth/2005> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Services_growth/2005> <http://example.com/value> "7.51" .
+<http://example.com/Goa/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Goa/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Goa/Services_growth/2006> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Services_growth/2006> <http://example.com/value> "10.58" .
+<http://example.com/Goa/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Goa/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Goa/Services_growth/2007> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Services_growth/2007> <http://example.com/value> "7.89" .
+<http://example.com/Goa/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Goa/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Goa/Services_growth/2008> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Services_growth/2008> <http://example.com/value> "15.26" .
+<http://example.com/Goa/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Goa/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Goa/Services_growth/2009> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Services_growth/2009> <http://example.com/value> "11.05" .
+<http://example.com/Goa/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Goa/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Goa/Services_growth/2010> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Services_growth/2010> <http://example.com/value> "12.3" .
+<http://example.com/Goa/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Goa/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/Goa/Services_growth/2011> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Services_growth/2011> <http://example.com/value> "13.08" .
+<http://example.com/Goa/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Gujarat/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Gujarat/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Gujarat/Services_growth/2005> <http://example.com/state> "Gujarat" .
+<http://example.com/Gujarat/Services_growth/2005> <http://example.com/value> "12.25" .
+<http://example.com/Gujarat/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Gujarat/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Gujarat/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Gujarat/Services_growth/2006> <http://example.com/state> "Gujarat" .
+<http://example.com/Gujarat/Services_growth/2006> <http://example.com/value> "11.09" .
+<http://example.com/Gujarat/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Gujarat/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Gujarat/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Gujarat/Services_growth/2007> <http://example.com/state> "Gujarat" .
+<http://example.com/Gujarat/Services_growth/2007> <http://example.com/value> "12" .
+<http://example.com/Gujarat/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Gujarat/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Gujarat/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Gujarat/Services_growth/2008> <http://example.com/state> "Gujarat" .
+<http://example.com/Gujarat/Services_growth/2008> <http://example.com/value> "11.88" .
+<http://example.com/Gujarat/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Gujarat/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Gujarat/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Gujarat/Services_growth/2009> <http://example.com/state> "Gujarat" .
+<http://example.com/Gujarat/Services_growth/2009> <http://example.com/value> "8.62" .
+<http://example.com/Gujarat/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Gujarat/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Gujarat/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Gujarat/Services_growth/2010> <http://example.com/state> "Gujarat" .
+<http://example.com/Gujarat/Services_growth/2010> <http://example.com/value> "10.79" .
+<http://example.com/Gujarat/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Haryana/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Haryana/Services_growth/2005> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Services_growth/2005> <http://example.com/value> "15.51" .
+<http://example.com/Haryana/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Haryana/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Haryana/Services_growth/2006> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Services_growth/2006> <http://example.com/value> "11.32" .
+<http://example.com/Haryana/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Haryana/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Haryana/Services_growth/2007> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Services_growth/2007> <http://example.com/value> "13.62" .
+<http://example.com/Haryana/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Haryana/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Haryana/Services_growth/2008> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Services_growth/2008> <http://example.com/value> "11.58" .
+<http://example.com/Haryana/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Haryana/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Haryana/Services_growth/2009> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Services_growth/2009> <http://example.com/value> "17" .
+<http://example.com/Haryana/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Haryana/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Haryana/Services_growth/2010> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Services_growth/2010> <http://example.com/value> "11.24" .
+<http://example.com/Haryana/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Haryana/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/Haryana/Services_growth/2011> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Services_growth/2011> <http://example.com/value> "10.05" .
+<http://example.com/Haryana/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Himachal_Pradesh/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Himachal_Pradesh/Services_growth/2005> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Services_growth/2005> <http://example.com/value> "9.95" .
+<http://example.com/Himachal_Pradesh/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Himachal_Pradesh/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Himachal_Pradesh/Services_growth/2006> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Services_growth/2006> <http://example.com/value> "11.08" .
+<http://example.com/Himachal_Pradesh/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Himachal_Pradesh/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Himachal_Pradesh/Services_growth/2007> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Services_growth/2007> <http://example.com/value> "7.52" .
+<http://example.com/Himachal_Pradesh/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Himachal_Pradesh/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Himachal_Pradesh/Services_growth/2008> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Services_growth/2008> <http://example.com/value> "10.29" .
+<http://example.com/Himachal_Pradesh/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Himachal_Pradesh/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Himachal_Pradesh/Services_growth/2009> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Services_growth/2009> <http://example.com/value> "13.8" .
+<http://example.com/Himachal_Pradesh/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Himachal_Pradesh/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Himachal_Pradesh/Services_growth/2010> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Services_growth/2010> <http://example.com/value> "10.11" .
+<http://example.com/Himachal_Pradesh/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Himachal_Pradesh/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/Himachal_Pradesh/Services_growth/2011> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Services_growth/2011> <http://example.com/value> "17.33" .
+<http://example.com/Himachal_Pradesh/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Jammu_&_Kashmir/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Jammu_&_Kashmir/Services_growth/2005> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Services_growth/2005> <http://example.com/value> "10.08" .
+<http://example.com/Jammu_&_Kashmir/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Jammu_&_Kashmir/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Jammu_&_Kashmir/Services_growth/2006> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Services_growth/2006> <http://example.com/value> "6.47" .
+<http://example.com/Jammu_&_Kashmir/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Jammu_&_Kashmir/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Jammu_&_Kashmir/Services_growth/2007> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Services_growth/2007> <http://example.com/value> "9.29" .
+<http://example.com/Jammu_&_Kashmir/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Jammu_&_Kashmir/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Jammu_&_Kashmir/Services_growth/2008> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Services_growth/2008> <http://example.com/value> "11.55" .
+<http://example.com/Jammu_&_Kashmir/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Jammu_&_Kashmir/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Jammu_&_Kashmir/Services_growth/2009> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Services_growth/2009> <http://example.com/value> "6.95" .
+<http://example.com/Jammu_&_Kashmir/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Jammu_&_Kashmir/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Jammu_&_Kashmir/Services_growth/2010> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Services_growth/2010> <http://example.com/value> "9.41" .
+<http://example.com/Jammu_&_Kashmir/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Jammu_&_Kashmir/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/Jammu_&_Kashmir/Services_growth/2011> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Services_growth/2011> <http://example.com/value> "10.05" .
+<http://example.com/Jammu_&_Kashmir/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Jharkhand/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Jharkhand/Services_growth/2005> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Services_growth/2005> <http://example.com/value> "8.13" .
+<http://example.com/Jharkhand/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Jharkhand/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Jharkhand/Services_growth/2006> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Services_growth/2006> <http://example.com/value> "8.86" .
+<http://example.com/Jharkhand/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Jharkhand/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Jharkhand/Services_growth/2007> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Services_growth/2007> <http://example.com/value> "12.28" .
+<http://example.com/Jharkhand/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Jharkhand/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Jharkhand/Services_growth/2008> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Services_growth/2008> <http://example.com/value> "8.78" .
+<http://example.com/Jharkhand/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Jharkhand/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Jharkhand/Services_growth/2009> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Services_growth/2009> <http://example.com/value> "21.05" .
+<http://example.com/Jharkhand/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Jharkhand/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Jharkhand/Services_growth/2010> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Services_growth/2010> <http://example.com/value> "12.12" .
+<http://example.com/Jharkhand/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Jharkhand/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/Jharkhand/Services_growth/2011> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Services_growth/2011> <http://example.com/value> "12.29" .
+<http://example.com/Jharkhand/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Karnataka/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Karnataka/Services_growth/2005> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Services_growth/2005> <http://example.com/value> "12" .
+<http://example.com/Karnataka/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Karnataka/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Karnataka/Services_growth/2006> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Services_growth/2006> <http://example.com/value> "10.53" .
+<http://example.com/Karnataka/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Karnataka/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Karnataka/Services_growth/2007> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Services_growth/2007> <http://example.com/value> "13.75" .
+<http://example.com/Karnataka/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Karnataka/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Karnataka/Services_growth/2008> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Services_growth/2008> <http://example.com/value> "9.78" .
+<http://example.com/Karnataka/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Karnataka/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Karnataka/Services_growth/2009> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Services_growth/2009> <http://example.com/value> "2.03" .
+<http://example.com/Karnataka/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Karnataka/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Karnataka/Services_growth/2010> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Services_growth/2010> <http://example.com/value> "9.26" .
+<http://example.com/Karnataka/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Karnataka/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/Karnataka/Services_growth/2011> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Services_growth/2011> <http://example.com/value> "12.81" .
+<http://example.com/Karnataka/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Kerala/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Kerala/Services_growth/2005> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Services_growth/2005> <http://example.com/value> "11.65" .
+<http://example.com/Kerala/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Kerala/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Kerala/Services_growth/2006> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Services_growth/2006> <http://example.com/value> "12.26" .
+<http://example.com/Kerala/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Kerala/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Kerala/Services_growth/2007> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Services_growth/2007> <http://example.com/value> "11.43" .
+<http://example.com/Kerala/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Kerala/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Kerala/Services_growth/2008> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Services_growth/2008> <http://example.com/value> "8.07" .
+<http://example.com/Kerala/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Kerala/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Kerala/Services_growth/2009> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Services_growth/2009> <http://example.com/value> "11.17" .
+<http://example.com/Kerala/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Kerala/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Kerala/Services_growth/2010> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Services_growth/2010> <http://example.com/value> "11.57" .
+<http://example.com/Kerala/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Kerala/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/Kerala/Services_growth/2011> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Services_growth/2011> <http://example.com/value> "9.27" .
+<http://example.com/Kerala/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Madhya_Pradesh/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Madhya_Pradesh/Services_growth/2005> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Services_growth/2005> <http://example.com/value> "4.61" .
+<http://example.com/Madhya_Pradesh/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Madhya_Pradesh/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Madhya_Pradesh/Services_growth/2006> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Services_growth/2006> <http://example.com/value> "9.04" .
+<http://example.com/Madhya_Pradesh/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Madhya_Pradesh/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Madhya_Pradesh/Services_growth/2007> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Services_growth/2007> <http://example.com/value> "7.52" .
+<http://example.com/Madhya_Pradesh/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Madhya_Pradesh/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Madhya_Pradesh/Services_growth/2008> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Services_growth/2008> <http://example.com/value> "10.3" .
+<http://example.com/Madhya_Pradesh/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Madhya_Pradesh/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Madhya_Pradesh/Services_growth/2009> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Services_growth/2009> <http://example.com/value> "11.81" .
+<http://example.com/Madhya_Pradesh/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Madhya_Pradesh/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Madhya_Pradesh/Services_growth/2010> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Services_growth/2010> <http://example.com/value> "10.98" .
+<http://example.com/Madhya_Pradesh/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Madhya_Pradesh/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/Madhya_Pradesh/Services_growth/2011> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Services_growth/2011> <http://example.com/value> "12.29" .
+<http://example.com/Madhya_Pradesh/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Maharashtra/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Maharashtra/Services_growth/2005> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Services_growth/2005> <http://example.com/value> "11.32" .
+<http://example.com/Maharashtra/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Maharashtra/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Maharashtra/Services_growth/2006> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Services_growth/2006> <http://example.com/value> "12.23" .
+<http://example.com/Maharashtra/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Maharashtra/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Maharashtra/Services_growth/2007> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Services_growth/2007> <http://example.com/value> "10.54" .
+<http://example.com/Maharashtra/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Maharashtra/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Maharashtra/Services_growth/2008> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Services_growth/2008> <http://example.com/value> "7.96" .
+<http://example.com/Maharashtra/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Maharashtra/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Maharashtra/Services_growth/2009> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Services_growth/2009> <http://example.com/value> "9.98" .
+<http://example.com/Maharashtra/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Maharashtra/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Maharashtra/Services_growth/2010> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Services_growth/2010> <http://example.com/value> "11.04" .
+<http://example.com/Maharashtra/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Maharashtra/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/Maharashtra/Services_growth/2011> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Services_growth/2011> <http://example.com/value> "10.13" .
+<http://example.com/Maharashtra/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Manipur/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Manipur/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Manipur/Services_growth/2005> <http://example.com/state> "Manipur" .
+<http://example.com/Manipur/Services_growth/2005> <http://example.com/value> "9.64" .
+<http://example.com/Manipur/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Manipur/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Manipur/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Manipur/Services_growth/2006> <http://example.com/state> "Manipur" .
+<http://example.com/Manipur/Services_growth/2006> <http://example.com/value> "2.76" .
+<http://example.com/Manipur/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Manipur/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Manipur/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Manipur/Services_growth/2007> <http://example.com/state> "Manipur" .
+<http://example.com/Manipur/Services_growth/2007> <http://example.com/value> "6.43" .
+<http://example.com/Manipur/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Manipur/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Manipur/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Manipur/Services_growth/2008> <http://example.com/state> "Manipur" .
+<http://example.com/Manipur/Services_growth/2008> <http://example.com/value> "8.6" .
+<http://example.com/Manipur/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Manipur/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Manipur/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Manipur/Services_growth/2009> <http://example.com/state> "Manipur" .
+<http://example.com/Manipur/Services_growth/2009> <http://example.com/value> "9.02" .
+<http://example.com/Manipur/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Manipur/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Manipur/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Manipur/Services_growth/2010> <http://example.com/state> "Manipur" .
+<http://example.com/Manipur/Services_growth/2010> <http://example.com/value> "8.01" .
+<http://example.com/Manipur/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Manipur/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Manipur/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/Manipur/Services_growth/2011> <http://example.com/state> "Manipur" .
+<http://example.com/Manipur/Services_growth/2011> <http://example.com/value> "7.92" .
+<http://example.com/Manipur/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Meghalaya/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Meghalaya/Services_growth/2005> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Services_growth/2005> <http://example.com/value> "8.8" .
+<http://example.com/Meghalaya/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Meghalaya/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Meghalaya/Services_growth/2006> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Services_growth/2006> <http://example.com/value> "7.91" .
+<http://example.com/Meghalaya/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Meghalaya/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Meghalaya/Services_growth/2007> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Services_growth/2007> <http://example.com/value> "4.21" .
+<http://example.com/Meghalaya/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Meghalaya/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Meghalaya/Services_growth/2008> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Services_growth/2008> <http://example.com/value> "13.72" .
+<http://example.com/Meghalaya/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Meghalaya/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Meghalaya/Services_growth/2009> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Services_growth/2009> <http://example.com/value> "8.39" .
+<http://example.com/Meghalaya/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Meghalaya/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Meghalaya/Services_growth/2010> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Services_growth/2010> <http://example.com/value> "8.63" .
+<http://example.com/Meghalaya/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Meghalaya/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/Meghalaya/Services_growth/2011> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Services_growth/2011> <http://example.com/value> "10.95" .
+<http://example.com/Meghalaya/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Mizoram/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Mizoram/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Mizoram/Services_growth/2005> <http://example.com/state> "Mizoram" .
+<http://example.com/Mizoram/Services_growth/2005> <http://example.com/value> "3.14" .
+<http://example.com/Mizoram/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Mizoram/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Mizoram/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Mizoram/Services_growth/2006> <http://example.com/state> "Mizoram" .
+<http://example.com/Mizoram/Services_growth/2006> <http://example.com/value> "7.75" .
+<http://example.com/Mizoram/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Mizoram/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Mizoram/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Mizoram/Services_growth/2007> <http://example.com/state> "Mizoram" .
+<http://example.com/Mizoram/Services_growth/2007> <http://example.com/value> "9.24" .
+<http://example.com/Mizoram/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Mizoram/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Mizoram/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Mizoram/Services_growth/2008> <http://example.com/state> "Mizoram" .
+<http://example.com/Mizoram/Services_growth/2008> <http://example.com/value> "12.62" .
+<http://example.com/Mizoram/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Mizoram/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Mizoram/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Mizoram/Services_growth/2009> <http://example.com/state> "Mizoram" .
+<http://example.com/Mizoram/Services_growth/2009> <http://example.com/value> "16.7" .
+<http://example.com/Mizoram/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Mizoram/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Mizoram/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Mizoram/Services_growth/2010> <http://example.com/state> "Mizoram" .
+<http://example.com/Mizoram/Services_growth/2010> <http://example.com/value> "6.19" .
+<http://example.com/Mizoram/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Nagaland/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Nagaland/Services_growth/2005> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Services_growth/2005> <http://example.com/value> "13.65" .
+<http://example.com/Nagaland/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Nagaland/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Nagaland/Services_growth/2006> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Services_growth/2006> <http://example.com/value> "10.1" .
+<http://example.com/Nagaland/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Nagaland/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Nagaland/Services_growth/2007> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Services_growth/2007> <http://example.com/value> "10.29" .
+<http://example.com/Nagaland/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Nagaland/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Nagaland/Services_growth/2008> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Services_growth/2008> <http://example.com/value> "3.31" .
+<http://example.com/Nagaland/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Nagaland/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Nagaland/Services_growth/2009> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Services_growth/2009> <http://example.com/value> "8.8" .
+<http://example.com/Nagaland/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Nagaland/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Nagaland/Services_growth/2010> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Services_growth/2010> <http://example.com/value> "4.67" .
+<http://example.com/Nagaland/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Nagaland/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/Nagaland/Services_growth/2011> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Services_growth/2011> <http://example.com/value> "3.55" .
+<http://example.com/Nagaland/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Delhi/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Delhi/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Delhi/Services_growth/2005> <http://example.com/state> "Delhi" .
+<http://example.com/Delhi/Services_growth/2005> <http://example.com/value> "11.27" .
+<http://example.com/Delhi/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Delhi/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Delhi/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Delhi/Services_growth/2006> <http://example.com/state> "Delhi" .
+<http://example.com/Delhi/Services_growth/2006> <http://example.com/value> "13.66" .
+<http://example.com/Delhi/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Delhi/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Delhi/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Delhi/Services_growth/2007> <http://example.com/state> "Delhi" .
+<http://example.com/Delhi/Services_growth/2007> <http://example.com/value> "12.58" .
+<http://example.com/Delhi/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Delhi/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Delhi/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Delhi/Services_growth/2008> <http://example.com/state> "Delhi" .
+<http://example.com/Delhi/Services_growth/2008> <http://example.com/value> "14.41" .
+<http://example.com/Delhi/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Delhi/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Delhi/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Delhi/Services_growth/2009> <http://example.com/state> "Delhi" .
+<http://example.com/Delhi/Services_growth/2009> <http://example.com/value> "10.75" .
+<http://example.com/Delhi/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Delhi/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Delhi/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Delhi/Services_growth/2010> <http://example.com/state> "Delhi" .
+<http://example.com/Delhi/Services_growth/2010> <http://example.com/value> "11.98" .
+<http://example.com/Delhi/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Delhi/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Delhi/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/Delhi/Services_growth/2011> <http://example.com/state> "Delhi" .
+<http://example.com/Delhi/Services_growth/2011> <http://example.com/value> "11.53" .
+<http://example.com/Delhi/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Orissa/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Orissa/Services_growth/2005> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Services_growth/2005> <http://example.com/value> "9.43" .
+<http://example.com/Orissa/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Orissa/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Orissa/Services_growth/2006> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Services_growth/2006> <http://example.com/value> "12.11" .
+<http://example.com/Orissa/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Orissa/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Orissa/Services_growth/2007> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Services_growth/2007> <http://example.com/value> "8.63" .
+<http://example.com/Orissa/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Orissa/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Orissa/Services_growth/2008> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Services_growth/2008> <http://example.com/value> "12.65" .
+<http://example.com/Orissa/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Orissa/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Orissa/Services_growth/2009> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Services_growth/2009> <http://example.com/value> "9.97" .
+<http://example.com/Orissa/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Orissa/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Orissa/Services_growth/2010> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Services_growth/2010> <http://example.com/value> "11.59" .
+<http://example.com/Orissa/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Orissa/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/Orissa/Services_growth/2011> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Services_growth/2011> <http://example.com/value> "8.77" .
+<http://example.com/Orissa/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Puducherry/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Puducherry/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Puducherry/Services_growth/2005> <http://example.com/state> "Puducherry" .
+<http://example.com/Puducherry/Services_growth/2005> <http://example.com/value> "17.08" .
+<http://example.com/Puducherry/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Puducherry/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Puducherry/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Puducherry/Services_growth/2006> <http://example.com/state> "Puducherry" .
+<http://example.com/Puducherry/Services_growth/2006> <http://example.com/value> "15.71" .
+<http://example.com/Puducherry/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Puducherry/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Puducherry/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Puducherry/Services_growth/2007> <http://example.com/state> "Puducherry" .
+<http://example.com/Puducherry/Services_growth/2007> <http://example.com/value> "11.63" .
+<http://example.com/Puducherry/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Puducherry/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Puducherry/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Puducherry/Services_growth/2008> <http://example.com/state> "Puducherry" .
+<http://example.com/Puducherry/Services_growth/2008> <http://example.com/value> "8.6" .
+<http://example.com/Puducherry/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Puducherry/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Puducherry/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Puducherry/Services_growth/2009> <http://example.com/state> "Puducherry" .
+<http://example.com/Puducherry/Services_growth/2009> <http://example.com/value> "8.48" .
+<http://example.com/Puducherry/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Puducherry/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Puducherry/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Puducherry/Services_growth/2010> <http://example.com/state> "Puducherry" .
+<http://example.com/Puducherry/Services_growth/2010> <http://example.com/value> "5.97" .
+<http://example.com/Puducherry/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Puducherry/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Puducherry/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/Puducherry/Services_growth/2011> <http://example.com/state> "Puducherry" .
+<http://example.com/Puducherry/Services_growth/2011> <http://example.com/value> "11.02" .
+<http://example.com/Puducherry/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Punjab/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Punjab/Services_growth/2005> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Services_growth/2005> <http://example.com/value> "6.64" .
+<http://example.com/Punjab/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Punjab/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Punjab/Services_growth/2006> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Services_growth/2006> <http://example.com/value> "8.69" .
+<http://example.com/Punjab/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Punjab/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Punjab/Services_growth/2007> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Services_growth/2007> <http://example.com/value> "7.52" .
+<http://example.com/Punjab/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Punjab/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Punjab/Services_growth/2008> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Services_growth/2008> <http://example.com/value> "9.57" .
+<http://example.com/Punjab/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Punjab/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Punjab/Services_growth/2009> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Services_growth/2009> <http://example.com/value> "8.62" .
+<http://example.com/Punjab/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Punjab/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Punjab/Services_growth/2010> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Services_growth/2010> <http://example.com/value> "8.88" .
+<http://example.com/Punjab/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Punjab/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/Punjab/Services_growth/2011> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Services_growth/2011> <http://example.com/value> "6.96" .
+<http://example.com/Punjab/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Rajasthan/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Rajasthan/Services_growth/2005> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Services_growth/2005> <http://example.com/value> "9.1" .
+<http://example.com/Rajasthan/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Rajasthan/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Rajasthan/Services_growth/2006> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Services_growth/2006> <http://example.com/value> "9.73" .
+<http://example.com/Rajasthan/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Rajasthan/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Rajasthan/Services_growth/2007> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Services_growth/2007> <http://example.com/value> "8.88" .
+<http://example.com/Rajasthan/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Rajasthan/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Rajasthan/Services_growth/2008> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Services_growth/2008> <http://example.com/value> "12.89" .
+<http://example.com/Rajasthan/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Rajasthan/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Rajasthan/Services_growth/2009> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Services_growth/2009> <http://example.com/value> "8.79" .
+<http://example.com/Rajasthan/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Rajasthan/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Rajasthan/Services_growth/2010> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Services_growth/2010> <http://example.com/value> "7.99" .
+<http://example.com/Rajasthan/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Rajasthan/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/Rajasthan/Services_growth/2011> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Services_growth/2011> <http://example.com/value> "7.01" .
+<http://example.com/Rajasthan/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Sikkim/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Sikkim/Services_growth/2005> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Services_growth/2005> <http://example.com/value> "10.71" .
+<http://example.com/Sikkim/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Sikkim/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Sikkim/Services_growth/2006> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Services_growth/2006> <http://example.com/value> "7.36" .
+<http://example.com/Sikkim/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Sikkim/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Sikkim/Services_growth/2007> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Services_growth/2007> <http://example.com/value> "7.51" .
+<http://example.com/Sikkim/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Sikkim/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Sikkim/Services_growth/2008> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Services_growth/2008> <http://example.com/value> "9.57" .
+<http://example.com/Sikkim/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Sikkim/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Sikkim/Services_growth/2009> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Services_growth/2009> <http://example.com/value> "24.52" .
+<http://example.com/Sikkim/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Sikkim/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Sikkim/Services_growth/2010> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Services_growth/2010> <http://example.com/value> "10.5" .
+<http://example.com/Sikkim/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Sikkim/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/Sikkim/Services_growth/2011> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Services_growth/2011> <http://example.com/value> "10.45" .
+<http://example.com/Sikkim/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Tamil_Nadu/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Tamil_Nadu/Services_growth/2005> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Services_growth/2005> <http://example.com/value> "14.02" .
+<http://example.com/Tamil_Nadu/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Tamil_Nadu/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Tamil_Nadu/Services_growth/2006> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Services_growth/2006> <http://example.com/value> "16.57" .
+<http://example.com/Tamil_Nadu/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Tamil_Nadu/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Tamil_Nadu/Services_growth/2007> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Services_growth/2007> <http://example.com/value> "9.33" .
+<http://example.com/Tamil_Nadu/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Tamil_Nadu/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Tamil_Nadu/Services_growth/2008> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Services_growth/2008> <http://example.com/value> "9.62" .
+<http://example.com/Tamil_Nadu/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Tamil_Nadu/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Tamil_Nadu/Services_growth/2009> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Services_growth/2009> <http://example.com/value> "6.14" .
+<http://example.com/Tamil_Nadu/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Tamil_Nadu/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Tamil_Nadu/Services_growth/2010> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Services_growth/2010> <http://example.com/value> "10.96" .
+<http://example.com/Tamil_Nadu/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Tamil_Nadu/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/Tamil_Nadu/Services_growth/2011> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Services_growth/2011> <http://example.com/value> "8.05" .
+<http://example.com/Tamil_Nadu/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Tripura/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Tripura/Services_growth/2005> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Services_growth/2005> <http://example.com/value> "4.88" .
+<http://example.com/Tripura/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Tripura/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Tripura/Services_growth/2006> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Services_growth/2006> <http://example.com/value> "6.53" .
+<http://example.com/Tripura/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Tripura/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Tripura/Services_growth/2007> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Services_growth/2007> <http://example.com/value> "6.59" .
+<http://example.com/Tripura/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Tripura/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Tripura/Services_growth/2008> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Services_growth/2008> <http://example.com/value> "11.35" .
+<http://example.com/Tripura/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Tripura/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Tripura/Services_growth/2009> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Services_growth/2009> <http://example.com/value> "10.19" .
+<http://example.com/Tripura/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Tripura/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Tripura/Services_growth/2010> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Services_growth/2010> <http://example.com/value> "10.34" .
+<http://example.com/Tripura/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Tripura/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/Tripura/Services_growth/2011> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Services_growth/2011> <http://example.com/value> "10.49" .
+<http://example.com/Tripura/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Uttar_Pradesh/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Uttar_Pradesh/Services_growth/2005> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Services_growth/2005> <http://example.com/value> "7.13" .
+<http://example.com/Uttar_Pradesh/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Uttar_Pradesh/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Uttar_Pradesh/Services_growth/2006> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Services_growth/2006> <http://example.com/value> "8.72" .
+<http://example.com/Uttar_Pradesh/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Uttar_Pradesh/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Uttar_Pradesh/Services_growth/2007> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Services_growth/2007> <http://example.com/value> "8.81" .
+<http://example.com/Uttar_Pradesh/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Uttar_Pradesh/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Uttar_Pradesh/Services_growth/2008> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Services_growth/2008> <http://example.com/value> "11.7" .
+<http://example.com/Uttar_Pradesh/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Uttar_Pradesh/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Uttar_Pradesh/Services_growth/2009> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Services_growth/2009> <http://example.com/value> "9.74" .
+<http://example.com/Uttar_Pradesh/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Uttar_Pradesh/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Uttar_Pradesh/Services_growth/2010> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Services_growth/2010> <http://example.com/value> "9.76" .
+<http://example.com/Uttar_Pradesh/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Uttar_Pradesh/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/Uttar_Pradesh/Services_growth/2011> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Services_growth/2011> <http://example.com/value> "7.82" .
+<http://example.com/Uttar_Pradesh/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Uttarakhand/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/Uttarakhand/Services_growth/2005> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Services_growth/2005> <http://example.com/value> "14.84" .
+<http://example.com/Uttarakhand/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Uttarakhand/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/Uttarakhand/Services_growth/2006> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Services_growth/2006> <http://example.com/value> "12.72" .
+<http://example.com/Uttarakhand/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Uttarakhand/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/Uttarakhand/Services_growth/2007> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Services_growth/2007> <http://example.com/value> "20.41" .
+<http://example.com/Uttarakhand/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Uttarakhand/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/Uttarakhand/Services_growth/2008> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Services_growth/2008> <http://example.com/value> "17.7" .
+<http://example.com/Uttarakhand/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Uttarakhand/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/Uttarakhand/Services_growth/2009> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Services_growth/2009> <http://example.com/value> "19.53" .
+<http://example.com/Uttarakhand/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Uttarakhand/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/Uttarakhand/Services_growth/2010> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Services_growth/2010> <http://example.com/value> "9.29" .
+<http://example.com/Uttarakhand/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Uttarakhand/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/Uttarakhand/Services_growth/2011> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Services_growth/2011> <http://example.com/value> "8.87" .
+<http://example.com/Uttarakhand/Services_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/West_Bengal/Services_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Services_growth/2005> <http://example.com/factor> "Services growth" .
+<http://example.com/West_Bengal/Services_growth/2005> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Services_growth/2005> <http://example.com/value> "9.28" .
+<http://example.com/West_Bengal/Services_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/West_Bengal/Services_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Services_growth/2006> <http://example.com/factor> "Services growth" .
+<http://example.com/West_Bengal/Services_growth/2006> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Services_growth/2006> <http://example.com/value> "9.78" .
+<http://example.com/West_Bengal/Services_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/West_Bengal/Services_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Services_growth/2007> <http://example.com/factor> "Services growth" .
+<http://example.com/West_Bengal/Services_growth/2007> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Services_growth/2007> <http://example.com/value> "8.69" .
+<http://example.com/West_Bengal/Services_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/West_Bengal/Services_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Services_growth/2008> <http://example.com/factor> "Services growth" .
+<http://example.com/West_Bengal/Services_growth/2008> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Services_growth/2008> <http://example.com/value> "10.04" .
+<http://example.com/West_Bengal/Services_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/West_Bengal/Services_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Services_growth/2009> <http://example.com/factor> "Services growth" .
+<http://example.com/West_Bengal/Services_growth/2009> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Services_growth/2009> <http://example.com/value> "7.86" .
+<http://example.com/West_Bengal/Services_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/West_Bengal/Services_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Services_growth/2010> <http://example.com/factor> "Services growth" .
+<http://example.com/West_Bengal/Services_growth/2010> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Services_growth/2010> <http://example.com/value> "9.97" .
+<http://example.com/West_Bengal/Services_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/West_Bengal/Services_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Services_growth/2011> <http://example.com/factor> "Services growth" .
+<http://example.com/West_Bengal/Services_growth/2011> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Services_growth/2011> <http://example.com/value> "8.37" .
+<http://example.com/West_Bengal/Services_growth/2011> <http://example.com/year> "2011" .
+

@@ -1,0 +1,1374 @@
+<http://example.com/India/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/India/Agriculture_and_Allied_growth/2005> <http://example.com/state> "India" .
+<http://example.com/India/Agriculture_and_Allied_growth/2005> <http://example.com/value> "5.14" .
+<http://example.com/India/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/India/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/India/Agriculture_and_Allied_growth/2006> <http://example.com/state> "India" .
+<http://example.com/India/Agriculture_and_Allied_growth/2006> <http://example.com/value> "4.16" .
+<http://example.com/India/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/India/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/India/Agriculture_and_Allied_growth/2007> <http://example.com/state> "India" .
+<http://example.com/India/Agriculture_and_Allied_growth/2007> <http://example.com/value> "5.8" .
+<http://example.com/India/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/India/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/India/Agriculture_and_Allied_growth/2008> <http://example.com/state> "India" .
+<http://example.com/India/Agriculture_and_Allied_growth/2008> <http://example.com/value> "0.09" .
+<http://example.com/India/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/India/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/India/Agriculture_and_Allied_growth/2009> <http://example.com/state> "India" .
+<http://example.com/India/Agriculture_and_Allied_growth/2009> <http://example.com/value> "0.81" .
+<http://example.com/India/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/India/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/India/Agriculture_and_Allied_growth/2010> <http://example.com/state> "India" .
+<http://example.com/India/Agriculture_and_Allied_growth/2010> <http://example.com/value> "7.94" .
+<http://example.com/India/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/India/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/India/Agriculture_and_Allied_growth/2011> <http://example.com/state> "India" .
+<http://example.com/India/Agriculture_and_Allied_growth/2011> <http://example.com/value> "3.65" .
+<http://example.com/India/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2005> <http://example.com/value> "-23.35" .
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2006> <http://example.com/value> "32.53" .
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2007> <http://example.com/value> "0.65" .
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2008> <http://example.com/value> "7.65" .
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2009> <http://example.com/value> "1.05" .
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2010> <http://example.com/value> "3.92" .
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2011> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2011> <http://example.com/value> "3.36" .
+<http://example.com/Andaman_&_Nicobar_Islands/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2005> <http://example.com/value> "6.12" .
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2006> <http://example.com/value> "1.97" .
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2007> <http://example.com/value> "17.38" .
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2008> <http://example.com/value> "0.76" .
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2009> <http://example.com/value> "1.32" .
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2010> <http://example.com/value> "9" .
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2011> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2011> <http://example.com/value> "-1.79" .
+<http://example.com/Andhra_Pradesh/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2005> <http://example.com/value> "-2.5" .
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2006> <http://example.com/value> "9.83" .
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2007> <http://example.com/value> "12.2" .
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2008> <http://example.com/value> "-6.93" .
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2009> <http://example.com/value> "2.4" .
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2010> <http://example.com/value> "14.37" .
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2011> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2011> <http://example.com/value> "5.77" .
+<http://example.com/Arunachal_Pradesh/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Assam/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Assam/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Agriculture_and_Allied_growth/2005> <http://example.com/value> "2.56" .
+<http://example.com/Assam/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Assam/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Assam/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Agriculture_and_Allied_growth/2006> <http://example.com/value> "1.91" .
+<http://example.com/Assam/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Assam/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Assam/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Agriculture_and_Allied_growth/2007> <http://example.com/value> "2.82" .
+<http://example.com/Assam/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Assam/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Assam/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Agriculture_and_Allied_growth/2008> <http://example.com/value> "1.94" .
+<http://example.com/Assam/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Assam/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Assam/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Agriculture_and_Allied_growth/2009> <http://example.com/value> "6.39" .
+<http://example.com/Assam/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Assam/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Assam/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Agriculture_and_Allied_growth/2010> <http://example.com/value> "6.49" .
+<http://example.com/Assam/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Assam/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Assam/Agriculture_and_Allied_growth/2011> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Agriculture_and_Allied_growth/2011> <http://example.com/value> "6.43" .
+<http://example.com/Assam/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2005> <http://example.com/value> "-5.61" .
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2006> <http://example.com/value> "22.34" .
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2007> <http://example.com/value> "-6.39" .
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2008> <http://example.com/value> "10.2" .
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2009> <http://example.com/value> "-7.76" .
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2010> <http://example.com/value> "9.08" .
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2011> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2011> <http://example.com/value> "15.67" .
+<http://example.com/Bihar/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Chandigarh" .
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2005> <http://example.com/value> "2.59" .
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Chandigarh" .
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2006> <http://example.com/value> "0.54" .
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Chandigarh" .
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2007> <http://example.com/value> "0.62" .
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Chandigarh" .
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2008> <http://example.com/value> "6.51" .
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Chandigarh" .
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2009> <http://example.com/value> "-13.1" .
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Chandigarh" .
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2010> <http://example.com/value> "-6.14" .
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2011> <http://example.com/state> "Chandigarh" .
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2011> <http://example.com/value> "-5.71" .
+<http://example.com/Chandigarh/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2005> <http://example.com/value> "12.75" .
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2006> <http://example.com/value> "4.48" .
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2007> <http://example.com/value> "9.32" .
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2008> <http://example.com/value> "-9.95" .
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2009> <http://example.com/value> "7.79" .
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2010> <http://example.com/value> "19.85" .
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2011> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2011> <http://example.com/value> "6.67" .
+<http://example.com/Chhattisgarh/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Goa/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Goa/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Agriculture_and_Allied_growth/2005> <http://example.com/value> "23.56" .
+<http://example.com/Goa/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Goa/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Goa/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Agriculture_and_Allied_growth/2006> <http://example.com/value> "-15.99" .
+<http://example.com/Goa/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Goa/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Goa/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Agriculture_and_Allied_growth/2007> <http://example.com/value> "1.53" .
+<http://example.com/Goa/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Goa/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Goa/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Agriculture_and_Allied_growth/2008> <http://example.com/value> "-7.28" .
+<http://example.com/Goa/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Goa/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Goa/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Agriculture_and_Allied_growth/2009> <http://example.com/value> "0.8" .
+<http://example.com/Goa/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Goa/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Goa/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Agriculture_and_Allied_growth/2010> <http://example.com/value> "3.51" .
+<http://example.com/Goa/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Goa/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Goa/Agriculture_and_Allied_growth/2011> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Agriculture_and_Allied_growth/2011> <http://example.com/value> "6.65" .
+<http://example.com/Goa/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Gujarat" .
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2005> <http://example.com/value> "23.1" .
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Gujarat" .
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2006> <http://example.com/value> "-0.73" .
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Gujarat" .
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2007> <http://example.com/value> "8.73" .
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Gujarat" .
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2008> <http://example.com/value> "-7.17" .
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Gujarat" .
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2009> <http://example.com/value> "0.49" .
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Gujarat" .
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2010> <http://example.com/value> "14.41" .
+<http://example.com/Gujarat/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2005> <http://example.com/value> "-1.81" .
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2006> <http://example.com/value> "14.15" .
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2007> <http://example.com/value> "-0.06" .
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2008> <http://example.com/value> "7.31" .
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2009> <http://example.com/value> "-1.43" .
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2010> <http://example.com/value> "5.99" .
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2011> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2011> <http://example.com/value> "4.89" .
+<http://example.com/Haryana/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2005> <http://example.com/value> "6.18" .
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2006> <http://example.com/value> "-0.69" .
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2007> <http://example.com/value> "8.98" .
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2008> <http://example.com/value> "-0.93" .
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2009> <http://example.com/value> "-8.09" .
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2010> <http://example.com/value> "16.58" .
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2011> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2011> <http://example.com/value> "-11.2" .
+<http://example.com/Himachal_Pradesh/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2005> <http://example.com/value> "0.24" .
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2006> <http://example.com/value> "1.06" .
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2007> <http://example.com/value> "0.65" .
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2008> <http://example.com/value> "3.83" .
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2009> <http://example.com/value> "-0.5" .
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2010> <http://example.com/value> "2.01" .
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2011> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2011> <http://example.com/value> "1.81" .
+<http://example.com/Jammu_&_Kashmir/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2005> <http://example.com/value> "3.65" .
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2006> <http://example.com/value> "12.58" .
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2007> <http://example.com/value> "5.61" .
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2008> <http://example.com/value> "16.57" .
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2009> <http://example.com/value> "-6.21" .
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2010> <http://example.com/value> "5.82" .
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2011> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2011> <http://example.com/value> "6.19" .
+<http://example.com/Jharkhand/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2005> <http://example.com/value> "9.92" .
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2006> <http://example.com/value> "-2.84" .
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2007> <http://example.com/value> "12.37" .
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2008> <http://example.com/value> "2.27" .
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2009> <http://example.com/value> "4.07" .
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2010> <http://example.com/value> "12.89" .
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2011> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2011> <http://example.com/value> "-2.85" .
+<http://example.com/Karnataka/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2005> <http://example.com/value> "4.98" .
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2006> <http://example.com/value> "-6.28" .
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2007> <http://example.com/value> "-1.23" .
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2008> <http://example.com/value> "1.98" .
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2009> <http://example.com/value> "-0.59" .
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2010> <http://example.com/value> "-0.24" .
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2011> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2011> <http://example.com/value> "-0.14" .
+<http://example.com/Kerala/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2005> <http://example.com/value> "7.04" .
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2006> <http://example.com/value> "2.35" .
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2007> <http://example.com/value> "-1.49" .
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2008> <http://example.com/value> "8.85" .
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2009> <http://example.com/value> "9.78" .
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2010> <http://example.com/value> "1.85" .
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2011> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2011> <http://example.com/value> "16.57" .
+<http://example.com/Madhya_Pradesh/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2005> <http://example.com/value> "9.2" .
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2006> <http://example.com/value> "14.03" .
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2007> <http://example.com/value> "13.76" .
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2008> <http://example.com/value> "-15.45" .
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2009> <http://example.com/value> "0.82" .
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2010> <http://example.com/value> "15.59" .
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2011> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2011> <http://example.com/value> "-5.12" .
+<http://example.com/Maharashtra/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Manipur" .
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2005> <http://example.com/value> "-0.3" .
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Manipur" .
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2006> <http://example.com/value> "0.08" .
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Manipur" .
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2007> <http://example.com/value> "10.01" .
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Manipur" .
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2008> <http://example.com/value> "9.4" .
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Manipur" .
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2009> <http://example.com/value> "9.96" .
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Manipur" .
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2010> <http://example.com/value> "6.13" .
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2011> <http://example.com/state> "Manipur" .
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2011> <http://example.com/value> "6.15" .
+<http://example.com/Manipur/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2005> <http://example.com/value> "4.9" .
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2006> <http://example.com/value> "1.33" .
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2007> <http://example.com/value> "-0.92" .
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2008> <http://example.com/value> "4.15" .
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2009> <http://example.com/value> "2.26" .
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2010> <http://example.com/value> "2.53" .
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2011> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2011> <http://example.com/value> "2.74" .
+<http://example.com/Meghalaya/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Mizoram" .
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2005> <http://example.com/value> "1.63" .
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Mizoram" .
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2006> <http://example.com/value> "0.27" .
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Mizoram" .
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2007> <http://example.com/value> "14.06" .
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Mizoram" .
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2008> <http://example.com/value> "12.2" .
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Mizoram" .
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2009> <http://example.com/value> "9.17" .
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Mizoram" .
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2010> <http://example.com/value> "2.37" .
+<http://example.com/Mizoram/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2005> <http://example.com/value> "2.55" .
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2006> <http://example.com/value> "0.97" .
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2007> <http://example.com/value> "0.61" .
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2008> <http://example.com/value> "7.53" .
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2009> <http://example.com/value> "2.89" .
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2010> <http://example.com/value> "8.91" .
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2011> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2011> <http://example.com/value> "4.63" .
+<http://example.com/Nagaland/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Delhi" .
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2005> <http://example.com/value> "-3.43" .
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Delhi" .
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2006> <http://example.com/value> "1.15" .
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Delhi" .
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2007> <http://example.com/value> "-2.81" .
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Delhi" .
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2008> <http://example.com/value> "-0.65" .
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Delhi" .
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2009> <http://example.com/value> "29.25" .
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Delhi" .
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2010> <http://example.com/value> "5.06" .
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2011> <http://example.com/state> "Delhi" .
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2011> <http://example.com/value> "5.52" .
+<http://example.com/Delhi/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2005> <http://example.com/value> "3.34" .
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2006> <http://example.com/value> "1.94" .
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2007> <http://example.com/value> "4.66" .
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2008> <http://example.com/value> "1.87" .
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2009> <http://example.com/value> "8.02" .
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2010> <http://example.com/value> "1.93" .
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2011> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2011> <http://example.com/value> "0.29" .
+<http://example.com/Orissa/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Puducherry" .
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2005> <http://example.com/value> "-3.4" .
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Puducherry" .
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2006> <http://example.com/value> "10.05" .
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Puducherry" .
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2007> <http://example.com/value> "-1.34" .
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Puducherry" .
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2008> <http://example.com/value> "47.82" .
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Puducherry" .
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2009> <http://example.com/value> "3.36" .
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Puducherry" .
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2010> <http://example.com/value> "3.7" .
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2011> <http://example.com/state> "Puducherry" .
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2011> <http://example.com/value> "3.86" .
+<http://example.com/Puducherry/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2005> <http://example.com/value> "0.95" .
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2006> <http://example.com/value> "2.85" .
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2007> <http://example.com/value> "3.82" .
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2008> <http://example.com/value> "2.03" .
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2009> <http://example.com/value> "-0.3" .
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2010> <http://example.com/value> "3.01" .
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2011> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2011> <http://example.com/value> "-0.25" .
+<http://example.com/Punjab/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2005> <http://example.com/value> "0.31" .
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2006> <http://example.com/value> "7.51" .
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2007> <http://example.com/value> "1.62" .
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2008> <http://example.com/value> "4.19" .
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2009> <http://example.com/value> "-2.31" .
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2010> <http://example.com/value> "27.2" .
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2011> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2011> <http://example.com/value> "2.5" .
+<http://example.com/Rajasthan/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2005> <http://example.com/value> "4.13" .
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2006> <http://example.com/value> "0.09" .
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2007> <http://example.com/value> "3.91" .
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2008> <http://example.com/value> "4.29" .
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2009> <http://example.com/value> "4.23" .
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2010> <http://example.com/value> "2.79" .
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2011> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2011> <http://example.com/value> "4.49" .
+<http://example.com/Sikkim/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2005> <http://example.com/value> "13.26" .
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2006> <http://example.com/value> "13.24" .
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2007> <http://example.com/value> "-4.41" .
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2008> <http://example.com/value> "-2.29" .
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2009> <http://example.com/value> "6.14" .
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2010> <http://example.com/value> "4.54" .
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2011> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2011> <http://example.com/value> "7.08" .
+<http://example.com/Tamil_Nadu/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2005> <http://example.com/value> "3.21" .
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2006> <http://example.com/value> "8.1" .
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2007> <http://example.com/value> "17.18" .
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2008> <http://example.com/value> "5.66" .
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2009> <http://example.com/value> "2.86" .
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2010> <http://example.com/value> "1.98" .
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2011> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2011> <http://example.com/value> "1.13" .
+<http://example.com/Tripura/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2005> <http://example.com/value> "2.34" .
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2006> <http://example.com/value> "2.42" .
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2007> <http://example.com/value> "3.51" .
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2008> <http://example.com/value> "3.8" .
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2009> <http://example.com/value> "-0.4" .
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2010> <http://example.com/value> "4.75" .
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2011> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2011> <http://example.com/value> "4.64" .
+<http://example.com/Uttar_Pradesh/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2005> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2005> <http://example.com/value> "-3.22" .
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2006> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2006> <http://example.com/value> "4.66" .
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2007> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2007> <http://example.com/value> "2.09" .
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2008> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2008> <http://example.com/value> "-3.66" .
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2009> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2009> <http://example.com/value> "9.63" .
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2010> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2010> <http://example.com/value> "3.97" .
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2011> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2011> <http://example.com/value> "2.67" .
+<http://example.com/Uttarakhand/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2005> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2005> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2005> <http://example.com/value> "2.22" .
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2006> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2006> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2006> <http://example.com/value> "2.12" .
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2007> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2007> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2007> <http://example.com/value> "6.21" .
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2008> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2008> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2008> <http://example.com/value> "-2.35" .
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2009> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2009> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2009> <http://example.com/value> "6.93" .
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2010> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2010> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2010> <http://example.com/value> "-0.75" .
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2011> <http://example.com/factor> "Agriculture and Allied growth" .
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2011> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2011> <http://example.com/value> "3.53" .
+<http://example.com/West_Bengal/Agriculture_and_Allied_growth/2011> <http://example.com/year> "2011" .
+

@@ -1,0 +1,1206 @@
+<http://example.com/India/Mining_and_Quarrying_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Mining_and_Quarrying_growth/2005> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/India/Mining_and_Quarrying_growth/2005> <http://example.com/state> "India" .
+<http://example.com/India/Mining_and_Quarrying_growth/2005> <http://example.com/value> "1.31" .
+<http://example.com/India/Mining_and_Quarrying_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/India/Mining_and_Quarrying_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Mining_and_Quarrying_growth/2006> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/India/Mining_and_Quarrying_growth/2006> <http://example.com/state> "India" .
+<http://example.com/India/Mining_and_Quarrying_growth/2006> <http://example.com/value> "7.47" .
+<http://example.com/India/Mining_and_Quarrying_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/India/Mining_and_Quarrying_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Mining_and_Quarrying_growth/2007> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/India/Mining_and_Quarrying_growth/2007> <http://example.com/state> "India" .
+<http://example.com/India/Mining_and_Quarrying_growth/2007> <http://example.com/value> "3.69" .
+<http://example.com/India/Mining_and_Quarrying_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/India/Mining_and_Quarrying_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Mining_and_Quarrying_growth/2008> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/India/Mining_and_Quarrying_growth/2008> <http://example.com/state> "India" .
+<http://example.com/India/Mining_and_Quarrying_growth/2008> <http://example.com/value> "2.14" .
+<http://example.com/India/Mining_and_Quarrying_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/India/Mining_and_Quarrying_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Mining_and_Quarrying_growth/2009> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/India/Mining_and_Quarrying_growth/2009> <http://example.com/state> "India" .
+<http://example.com/India/Mining_and_Quarrying_growth/2009> <http://example.com/value> "5.89" .
+<http://example.com/India/Mining_and_Quarrying_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/India/Mining_and_Quarrying_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Mining_and_Quarrying_growth/2010> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/India/Mining_and_Quarrying_growth/2010> <http://example.com/state> "India" .
+<http://example.com/India/Mining_and_Quarrying_growth/2010> <http://example.com/value> "4.92" .
+<http://example.com/India/Mining_and_Quarrying_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/India/Mining_and_Quarrying_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Mining_and_Quarrying_growth/2011> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/India/Mining_and_Quarrying_growth/2011> <http://example.com/state> "India" .
+<http://example.com/India/Mining_and_Quarrying_growth/2011> <http://example.com/value> "-0.63" .
+<http://example.com/India/Mining_and_Quarrying_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2005> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2005> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2005> <http://example.com/value> "110.42" .
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2006> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2006> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2006> <http://example.com/value> "72.64" .
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2007> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2007> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2007> <http://example.com/value> "12.11" .
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2008> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2008> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2008> <http://example.com/value> "-6.8" .
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2009> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2009> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2009> <http://example.com/value> "-27.89" .
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2010> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2010> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2010> <http://example.com/value> "-12.27" .
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2011> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2011> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2011> <http://example.com/value> "-14.39" .
+<http://example.com/Andaman_&_Nicobar_Islands/Mining_and_Quarrying_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2005> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2005> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2005> <http://example.com/value> "10.54" .
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2006> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2006> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2006> <http://example.com/value> "49.31" .
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2007> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2007> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2007> <http://example.com/value> "7.16" .
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2008> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2008> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2008> <http://example.com/value> "-15.55" .
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2009> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2009> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2009> <http://example.com/value> "4.58" .
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2010> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2010> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2010> <http://example.com/value> "9.94" .
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2011> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2011> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2011> <http://example.com/value> "1.75" .
+<http://example.com/Andhra_Pradesh/Mining_and_Quarrying_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2005> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2005> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2005> <http://example.com/value> "24.78" .
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2006> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2006> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2006> <http://example.com/value> "-3.02" .
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2007> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2007> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2007> <http://example.com/value> "10.45" .
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2008> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2008> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2008> <http://example.com/value> "2.63" .
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2009> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2009> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2009> <http://example.com/value> "31.5" .
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2010> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2010> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2010> <http://example.com/value> "-19.11" .
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2011> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2011> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2011> <http://example.com/value> "7.88" .
+<http://example.com/Arunachal_Pradesh/Mining_and_Quarrying_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Assam/Mining_and_Quarrying_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Mining_and_Quarrying_growth/2005> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Assam/Mining_and_Quarrying_growth/2005> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Mining_and_Quarrying_growth/2005> <http://example.com/value> "1.86" .
+<http://example.com/Assam/Mining_and_Quarrying_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Assam/Mining_and_Quarrying_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Mining_and_Quarrying_growth/2006> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Assam/Mining_and_Quarrying_growth/2006> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Mining_and_Quarrying_growth/2006> <http://example.com/value> "1.35" .
+<http://example.com/Assam/Mining_and_Quarrying_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Assam/Mining_and_Quarrying_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Mining_and_Quarrying_growth/2007> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Assam/Mining_and_Quarrying_growth/2007> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Mining_and_Quarrying_growth/2007> <http://example.com/value> "3.97" .
+<http://example.com/Assam/Mining_and_Quarrying_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Assam/Mining_and_Quarrying_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Mining_and_Quarrying_growth/2008> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Assam/Mining_and_Quarrying_growth/2008> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Mining_and_Quarrying_growth/2008> <http://example.com/value> "-15.92" .
+<http://example.com/Assam/Mining_and_Quarrying_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Assam/Mining_and_Quarrying_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Mining_and_Quarrying_growth/2009> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Assam/Mining_and_Quarrying_growth/2009> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Mining_and_Quarrying_growth/2009> <http://example.com/value> "0.66" .
+<http://example.com/Assam/Mining_and_Quarrying_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Assam/Mining_and_Quarrying_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Mining_and_Quarrying_growth/2010> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Assam/Mining_and_Quarrying_growth/2010> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Mining_and_Quarrying_growth/2010> <http://example.com/value> "2.4" .
+<http://example.com/Assam/Mining_and_Quarrying_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Assam/Mining_and_Quarrying_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Mining_and_Quarrying_growth/2011> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Assam/Mining_and_Quarrying_growth/2011> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Mining_and_Quarrying_growth/2011> <http://example.com/value> "5.06" .
+<http://example.com/Assam/Mining_and_Quarrying_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2005> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2005> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2005> <http://example.com/value> "66.24" .
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2006> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2006> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2006> <http://example.com/value> "-17.14" .
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2007> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2007> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2007> <http://example.com/value> "-1.72" .
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2008> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2008> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2008> <http://example.com/value> "121.05" .
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2009> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2009> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2009> <http://example.com/value> "-26.98" .
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2010> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2010> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2010> <http://example.com/value> "15.22" .
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2011> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2011> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2011> <http://example.com/value> "0" .
+<http://example.com/Bihar/Mining_and_Quarrying_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2005> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2005> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2005> <http://example.com/value> "6.56" .
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2006> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2006> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2006> <http://example.com/value> "11.92" .
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2007> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2007> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2007> <http://example.com/value> "4.95" .
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2008> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2008> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2008> <http://example.com/value> "10.24" .
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2009> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2009> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2009> <http://example.com/value> "5.5" .
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2010> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2010> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2010> <http://example.com/value> "4.56" .
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2011> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2011> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2011> <http://example.com/value> "6.8" .
+<http://example.com/Chhattisgarh/Mining_and_Quarrying_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Goa/Mining_and_Quarrying_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Mining_and_Quarrying_growth/2005> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Goa/Mining_and_Quarrying_growth/2005> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Mining_and_Quarrying_growth/2005> <http://example.com/value> "5.88" .
+<http://example.com/Goa/Mining_and_Quarrying_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Goa/Mining_and_Quarrying_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Mining_and_Quarrying_growth/2006> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Goa/Mining_and_Quarrying_growth/2006> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Mining_and_Quarrying_growth/2006> <http://example.com/value> "56.89" .
+<http://example.com/Goa/Mining_and_Quarrying_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Goa/Mining_and_Quarrying_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Mining_and_Quarrying_growth/2007> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Goa/Mining_and_Quarrying_growth/2007> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Mining_and_Quarrying_growth/2007> <http://example.com/value> "1.5" .
+<http://example.com/Goa/Mining_and_Quarrying_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Goa/Mining_and_Quarrying_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Mining_and_Quarrying_growth/2008> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Goa/Mining_and_Quarrying_growth/2008> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Mining_and_Quarrying_growth/2008> <http://example.com/value> "17.77" .
+<http://example.com/Goa/Mining_and_Quarrying_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Goa/Mining_and_Quarrying_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Mining_and_Quarrying_growth/2009> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Goa/Mining_and_Quarrying_growth/2009> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Mining_and_Quarrying_growth/2009> <http://example.com/value> "24.65" .
+<http://example.com/Goa/Mining_and_Quarrying_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Goa/Mining_and_Quarrying_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Mining_and_Quarrying_growth/2010> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Goa/Mining_and_Quarrying_growth/2010> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Mining_and_Quarrying_growth/2010> <http://example.com/value> "-3.81" .
+<http://example.com/Goa/Mining_and_Quarrying_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Goa/Mining_and_Quarrying_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Mining_and_Quarrying_growth/2011> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Goa/Mining_and_Quarrying_growth/2011> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Mining_and_Quarrying_growth/2011> <http://example.com/value> "0.07" .
+<http://example.com/Goa/Mining_and_Quarrying_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2005> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2005> <http://example.com/state> "Gujarat" .
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2005> <http://example.com/value> "2.27" .
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2006> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2006> <http://example.com/state> "Gujarat" .
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2006> <http://example.com/value> "0.74" .
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2007> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2007> <http://example.com/state> "Gujarat" .
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2007> <http://example.com/value> "0.61" .
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2008> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2008> <http://example.com/state> "Gujarat" .
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2008> <http://example.com/value> "-5.32" .
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2009> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2009> <http://example.com/state> "Gujarat" .
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2009> <http://example.com/value> "1.89" .
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2010> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2010> <http://example.com/state> "Gujarat" .
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2010> <http://example.com/value> "-1.18" .
+<http://example.com/Gujarat/Mining_and_Quarrying_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2005> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2005> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2005> <http://example.com/value> "84.16" .
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2006> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2006> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2006> <http://example.com/value> "-4.46" .
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2007> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2007> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2007> <http://example.com/value> "3.8" .
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2008> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2008> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2008> <http://example.com/value> "-7.75" .
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2009> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2009> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2009> <http://example.com/value> "-48.14" .
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2010> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2010> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2010> <http://example.com/value> "-54.8" .
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2011> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2011> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2011> <http://example.com/value> "-4.64" .
+<http://example.com/Haryana/Mining_and_Quarrying_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2005> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2005> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2005> <http://example.com/value> "3.03" .
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2006> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2006> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2006> <http://example.com/value> "8.12" .
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2007> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2007> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2007> <http://example.com/value> "-2.22" .
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2008> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2008> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2008> <http://example.com/value> "8.48" .
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2009> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2009> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2009> <http://example.com/value> "83.69" .
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2010> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2010> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2010> <http://example.com/value> "1.17" .
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2011> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2011> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2011> <http://example.com/value> "1.45" .
+<http://example.com/Himachal_Pradesh/Mining_and_Quarrying_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2005> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2005> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2005> <http://example.com/value> "45.46" .
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2006> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2006> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2006> <http://example.com/value> "41.04" .
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2007> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2007> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2007> <http://example.com/value> "12.97" .
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2008> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2008> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2008> <http://example.com/value> "29.83" .
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2009> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2009> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2009> <http://example.com/value> "-7.45" .
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2010> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2010> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2010> <http://example.com/value> "17.67" .
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2011> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2011> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2011> <http://example.com/value> "5.11" .
+<http://example.com/Jammu_&_Kashmir/Mining_and_Quarrying_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2005> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2005> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2005> <http://example.com/value> "3.21" .
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2006> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2006> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2006> <http://example.com/value> "-7.25" .
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2007> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2007> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2007> <http://example.com/value> "0.84" .
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2008> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2008> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2008> <http://example.com/value> "23.38" .
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2009> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2009> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2009> <http://example.com/value> "7.26" .
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2010> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2010> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2010> <http://example.com/value> "5.02" .
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2011> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2011> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2011> <http://example.com/value> "5.02" .
+<http://example.com/Jharkhand/Mining_and_Quarrying_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2005> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2005> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2005> <http://example.com/value> "-2.28" .
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2006> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2006> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2006> <http://example.com/value> "5.09" .
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2007> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2007> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2007> <http://example.com/value> "42.24" .
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2008> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2008> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2008> <http://example.com/value> "-3.43" .
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2009> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2009> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2009> <http://example.com/value> "-9.88" .
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2010> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2010> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2010> <http://example.com/value> "-11.81" .
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2011> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2011> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2011> <http://example.com/value> "1.67" .
+<http://example.com/Karnataka/Mining_and_Quarrying_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2005> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2005> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2005> <http://example.com/value> "27.73" .
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2006> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2006> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2006> <http://example.com/value> "-9.28" .
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2007> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2007> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2007> <http://example.com/value> "3.13" .
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2008> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2008> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2008> <http://example.com/value> "9.67" .
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2009> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2009> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2009> <http://example.com/value> "20.66" .
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2010> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2010> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2010> <http://example.com/value> "25.58" .
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2011> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2011> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2011> <http://example.com/value> "18.64" .
+<http://example.com/Kerala/Mining_and_Quarrying_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2005> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2005> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2005> <http://example.com/value> "0.87" .
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2006> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2006> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2006> <http://example.com/value> "8.96" .
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2007> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2007> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2007> <http://example.com/value> "11.17" .
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2008> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2008> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2008> <http://example.com/value> "6.24" .
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2009> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2009> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2009> <http://example.com/value> "3.67" .
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2010> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2010> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2010> <http://example.com/value> "-2.84" .
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2011> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2011> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2011> <http://example.com/value> "-1.91" .
+<http://example.com/Madhya_Pradesh/Mining_and_Quarrying_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2005> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2005> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2005> <http://example.com/value> "2.35" .
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2006> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2006> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2006> <http://example.com/value> "2.57" .
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2007> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2007> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2007> <http://example.com/value> "0.79" .
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2008> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2008> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2008> <http://example.com/value> "-3.31" .
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2009> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2009> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2009> <http://example.com/value> "7.08" .
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2010> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2010> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2010> <http://example.com/value> "1.27" .
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2011> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2011> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2011> <http://example.com/value> "-2.91" .
+<http://example.com/Maharashtra/Mining_and_Quarrying_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2005> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2005> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2005> <http://example.com/value> "0.72" .
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2006> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2006> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2006> <http://example.com/value> "5.53" .
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2007> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2007> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2007> <http://example.com/value> "13.24" .
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2008> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2008> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2008> <http://example.com/value> "-14" .
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2009> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2009> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2009> <http://example.com/value> "4.98" .
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2010> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2010> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2010> <http://example.com/value> "3.73" .
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2011> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2011> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2011> <http://example.com/value> "4.97" .
+<http://example.com/Meghalaya/Mining_and_Quarrying_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2005> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2005> <http://example.com/state> "Mizoram" .
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2005> <http://example.com/value> "-31.3" .
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2006> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2006> <http://example.com/state> "Mizoram" .
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2006> <http://example.com/value> "89.84" .
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2007> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2007> <http://example.com/state> "Mizoram" .
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2007> <http://example.com/value> "29.54" .
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2008> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2008> <http://example.com/state> "Mizoram" .
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2008> <http://example.com/value> "49.67" .
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2009> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2009> <http://example.com/state> "Mizoram" .
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2009> <http://example.com/value> "-38.81" .
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2010> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2010> <http://example.com/state> "Mizoram" .
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2010> <http://example.com/value> "-39.4" .
+<http://example.com/Mizoram/Mining_and_Quarrying_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2005> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2005> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2005> <http://example.com/value> "8.57" .
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2006> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2006> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2006> <http://example.com/value> "15.78" .
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2007> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2007> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2007> <http://example.com/value> "11.4" .
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2008> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2008> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2008> <http://example.com/value> "6.32" .
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2009> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2009> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2009> <http://example.com/value> "12.83" .
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2010> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2010> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2010> <http://example.com/value> "16.22" .
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2011> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2011> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2011> <http://example.com/value> "10" .
+<http://example.com/Nagaland/Mining_and_Quarrying_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2005> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2005> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2005> <http://example.com/value> "8.68" .
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2006> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2006> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2006> <http://example.com/value> "19.97" .
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2007> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2007> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2007> <http://example.com/value> "3.94" .
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2008> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2008> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2008> <http://example.com/value> "8.95" .
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2009> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2009> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2009> <http://example.com/value> "5.35" .
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2010> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2010> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2010> <http://example.com/value> "-3.99" .
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2011> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2011> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2011> <http://example.com/value> "4.29" .
+<http://example.com/Orissa/Mining_and_Quarrying_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2005> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2005> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2005> <http://example.com/value> "0.69" .
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2006> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2006> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2006> <http://example.com/value> "0.91" .
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2007> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2007> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2007> <http://example.com/value> "22.89" .
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2008> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2008> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2008> <http://example.com/value> "22.19" .
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2009> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2009> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2009> <http://example.com/value> "-15.04" .
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2010> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2010> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2010> <http://example.com/value> "6.32" .
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2011> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2011> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2011> <http://example.com/value> "3.59" .
+<http://example.com/Punjab/Mining_and_Quarrying_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2005> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2005> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2005> <http://example.com/value> "5.48" .
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2006> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2006> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2006> <http://example.com/value> "42.96" .
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2007> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2007> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2007> <http://example.com/value> "7.52" .
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2008> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2008> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2008> <http://example.com/value> "-6.72" .
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2009> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2009> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2009> <http://example.com/value> "15.96" .
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2010> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2010> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2010> <http://example.com/value> "4.55" .
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2011> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2011> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2011> <http://example.com/value> "-1.42" .
+<http://example.com/Rajasthan/Mining_and_Quarrying_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2005> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2005> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2005> <http://example.com/value> "4.34" .
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2006> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2006> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2006> <http://example.com/value> "3.49" .
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2007> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2007> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2007> <http://example.com/value> "6.44" .
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2008> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2008> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2008> <http://example.com/value> "63.25" .
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2009> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2009> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2009> <http://example.com/value> "7.65" .
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2010> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2010> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2010> <http://example.com/value> "10.79" .
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2011> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2011> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2011> <http://example.com/value> "12.47" .
+<http://example.com/Sikkim/Mining_and_Quarrying_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2005> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2005> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2005> <http://example.com/value> "-4.86" .
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2006> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2006> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2006> <http://example.com/value> "4.36" .
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2007> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2007> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2007> <http://example.com/value> "1.17" .
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2008> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2008> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2008> <http://example.com/value> "-1.78" .
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2009> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2009> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2009> <http://example.com/value> "9.3" .
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2010> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2010> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2010> <http://example.com/value> "1.89" .
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2011> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2011> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2011> <http://example.com/value> "3.04" .
+<http://example.com/Tamil_Nadu/Mining_and_Quarrying_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2005> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2005> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2005> <http://example.com/value> "2.09" .
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2006> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2006> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2006> <http://example.com/value> "8.68" .
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2007> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2007> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2007> <http://example.com/value> "2.76" .
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2008> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2008> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2008> <http://example.com/value> "13.17" .
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2009> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2009> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2009> <http://example.com/value> "11.63" .
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2010> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2010> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2010> <http://example.com/value> "11.63" .
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2011> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2011> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2011> <http://example.com/value> "11.63" .
+<http://example.com/Tripura/Mining_and_Quarrying_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2005> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2005> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2005> <http://example.com/value> "18.35" .
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2006> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2006> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2006> <http://example.com/value> "1.55" .
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2007> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2007> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2007> <http://example.com/value> "-3.88" .
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2008> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2008> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2008> <http://example.com/value> "14.85" .
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2009> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2009> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2009> <http://example.com/value> "-14.94" .
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2010> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2010> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2010> <http://example.com/value> "-2.36" .
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2011> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2011> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2011> <http://example.com/value> "-1.98" .
+<http://example.com/Uttar_Pradesh/Mining_and_Quarrying_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2005> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2005> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2005> <http://example.com/value> "32.59" .
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2006> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2006> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2006> <http://example.com/value> "-4.68" .
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2007> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2007> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2007> <http://example.com/value> "1.7" .
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2008> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2008> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2008> <http://example.com/value> "-18.45" .
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2009> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2009> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2009> <http://example.com/value> "-14.33" .
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2010> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2010> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2010> <http://example.com/value> "-1.92" .
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2011> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2011> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2011> <http://example.com/value> "-6.84" .
+<http://example.com/Uttarakhand/Mining_and_Quarrying_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2005> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2005> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2005> <http://example.com/value> "0.35" .
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2006> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2006> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2006> <http://example.com/value> "4.48" .
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2007> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2007> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2007> <http://example.com/value> "-13.08" .
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2008> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2008> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2008> <http://example.com/value> "2.96" .
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2009> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2009> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2009> <http://example.com/value> "-0.19" .
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2010> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2010> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2010> <http://example.com/value> "-6.07" .
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2011> <http://example.com/factor> "Mining and Quarrying growth" .
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2011> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2011> <http://example.com/value> "-7.61" .
+<http://example.com/West_Bengal/Mining_and_Quarrying_growth/2011> <http://example.com/year> "2011" .
+

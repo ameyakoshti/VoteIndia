@@ -1,0 +1,396 @@
+<http://example.com/India/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/India/Male_Literacy_Rate/2001> <http://example.com/state> "India" .
+<http://example.com/India/Male_Literacy_Rate/2001> <http://example.com/value> "75.26" .
+<http://example.com/India/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/India/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/India/Male_Literacy_Rate/2011> <http://example.com/state> "India" .
+<http://example.com/India/Male_Literacy_Rate/2011> <http://example.com/value> "82.14" .
+<http://example.com/India/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Andaman_&_Nicobar_Islands/Male_Literacy_Rate/2001> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Male_Literacy_Rate/2001> <http://example.com/value> "86.33" .
+<http://example.com/Andaman_&_Nicobar_Islands/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Andaman_&_Nicobar_Islands/Male_Literacy_Rate/2011> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Male_Literacy_Rate/2011> <http://example.com/value> "90.11" .
+<http://example.com/Andaman_&_Nicobar_Islands/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Andhra_Pradesh/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Andhra_Pradesh/Male_Literacy_Rate/2001> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Male_Literacy_Rate/2001> <http://example.com/value> "79.66" .
+<http://example.com/Andhra_Pradesh/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Andhra_Pradesh/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Andhra_Pradesh/Male_Literacy_Rate/2011> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Male_Literacy_Rate/2011> <http://example.com/value> "87.23100003" .
+<http://example.com/Andhra_Pradesh/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Arunachal_Pradesh/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Arunachal_Pradesh/Male_Literacy_Rate/2001> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Male_Literacy_Rate/2001> <http://example.com/value> "63.83" .
+<http://example.com/Arunachal_Pradesh/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Arunachal_Pradesh/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Arunachal_Pradesh/Male_Literacy_Rate/2011> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Male_Literacy_Rate/2011> <http://example.com/value> "73.69" .
+<http://example.com/Arunachal_Pradesh/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Assam/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Assam/Male_Literacy_Rate/2001> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Male_Literacy_Rate/2001> <http://example.com/value> "71.28" .
+<http://example.com/Assam/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Assam/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Assam/Male_Literacy_Rate/2011> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Male_Literacy_Rate/2011> <http://example.com/value> "78.81" .
+<http://example.com/Assam/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Bihar/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Bihar/Male_Literacy_Rate/2001> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Male_Literacy_Rate/2001> <http://example.com/value> "59.68" .
+<http://example.com/Bihar/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Bihar/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Bihar/Male_Literacy_Rate/2011> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Male_Literacy_Rate/2011> <http://example.com/value> "73.39" .
+<http://example.com/Bihar/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Chandigarh/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chandigarh/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Chandigarh/Male_Literacy_Rate/2001> <http://example.com/state> "Chandigarh" .
+<http://example.com/Chandigarh/Male_Literacy_Rate/2001> <http://example.com/value> "86.14" .
+<http://example.com/Chandigarh/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Chandigarh/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chandigarh/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Chandigarh/Male_Literacy_Rate/2011> <http://example.com/state> "Chandigarh" .
+<http://example.com/Chandigarh/Male_Literacy_Rate/2011> <http://example.com/value> "90.54" .
+<http://example.com/Chandigarh/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Chhattisgarh/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Chhattisgarh/Male_Literacy_Rate/2001> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Male_Literacy_Rate/2001> <http://example.com/value> "77.38" .
+<http://example.com/Chhattisgarh/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Chhattisgarh/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Chhattisgarh/Male_Literacy_Rate/2011> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Male_Literacy_Rate/2011> <http://example.com/value> "81.45" .
+<http://example.com/Chhattisgarh/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Goa/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Goa/Male_Literacy_Rate/2001> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Male_Literacy_Rate/2001> <http://example.com/value> "88.42" .
+<http://example.com/Goa/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Goa/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Goa/Male_Literacy_Rate/2011> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Male_Literacy_Rate/2011> <http://example.com/value> "92.81" .
+<http://example.com/Goa/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Gujarat/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Gujarat/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Gujarat/Male_Literacy_Rate/2001> <http://example.com/state> "Gujarat" .
+<http://example.com/Gujarat/Male_Literacy_Rate/2001> <http://example.com/value> "79.66" .
+<http://example.com/Gujarat/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Gujarat/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Gujarat/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Gujarat/Male_Literacy_Rate/2011> <http://example.com/state> "Gujarat" .
+<http://example.com/Gujarat/Male_Literacy_Rate/2011> <http://example.com/value> "87.23100003" .
+<http://example.com/Gujarat/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Haryana/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Haryana/Male_Literacy_Rate/2001> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Male_Literacy_Rate/2001> <http://example.com/value> "78.49" .
+<http://example.com/Haryana/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Haryana/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Haryana/Male_Literacy_Rate/2011> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Male_Literacy_Rate/2011> <http://example.com/value> "85.38" .
+<http://example.com/Haryana/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Himachal_Pradesh/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Himachal_Pradesh/Male_Literacy_Rate/2001> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Male_Literacy_Rate/2001> <http://example.com/value> "85.35" .
+<http://example.com/Himachal_Pradesh/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Himachal_Pradesh/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Himachal_Pradesh/Male_Literacy_Rate/2011> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Male_Literacy_Rate/2011> <http://example.com/value> "90.83" .
+<http://example.com/Himachal_Pradesh/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Jammu_&_Kashmir/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Jammu_&_Kashmir/Male_Literacy_Rate/2001> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Male_Literacy_Rate/2001> <http://example.com/value> "66.6" .
+<http://example.com/Jammu_&_Kashmir/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Jammu_&_Kashmir/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Jammu_&_Kashmir/Male_Literacy_Rate/2011> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Male_Literacy_Rate/2011> <http://example.com/value> "78.26" .
+<http://example.com/Jammu_&_Kashmir/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Jharkhand/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Jharkhand/Male_Literacy_Rate/2001> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Male_Literacy_Rate/2001> <http://example.com/value> "67.3" .
+<http://example.com/Jharkhand/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Jharkhand/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Jharkhand/Male_Literacy_Rate/2011> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Male_Literacy_Rate/2011> <http://example.com/value> "78.45" .
+<http://example.com/Jharkhand/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Karnataka/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Karnataka/Male_Literacy_Rate/2001> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Male_Literacy_Rate/2001> <http://example.com/value> "76.1" .
+<http://example.com/Karnataka/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Karnataka/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Karnataka/Male_Literacy_Rate/2011> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Male_Literacy_Rate/2011> <http://example.com/value> "82.85" .
+<http://example.com/Karnataka/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Kerala/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Kerala/Male_Literacy_Rate/2001> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Male_Literacy_Rate/2001> <http://example.com/value> "94.24" .
+<http://example.com/Kerala/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Kerala/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Kerala/Male_Literacy_Rate/2011> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Male_Literacy_Rate/2011> <http://example.com/value> "96.02" .
+<http://example.com/Kerala/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Madhya_Pradesh/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Madhya_Pradesh/Male_Literacy_Rate/2001> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Male_Literacy_Rate/2001> <http://example.com/value> "76.06" .
+<http://example.com/Madhya_Pradesh/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Madhya_Pradesh/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Madhya_Pradesh/Male_Literacy_Rate/2011> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Male_Literacy_Rate/2011> <http://example.com/value> "80.53" .
+<http://example.com/Madhya_Pradesh/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Maharashtra/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Maharashtra/Male_Literacy_Rate/2001> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Male_Literacy_Rate/2001> <http://example.com/value> "85.97" .
+<http://example.com/Maharashtra/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Maharashtra/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Maharashtra/Male_Literacy_Rate/2011> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Male_Literacy_Rate/2011> <http://example.com/value> "89.82" .
+<http://example.com/Maharashtra/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Manipur/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Manipur/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Manipur/Male_Literacy_Rate/2001> <http://example.com/state> "Manipur" .
+<http://example.com/Manipur/Male_Literacy_Rate/2001> <http://example.com/value> "80.33" .
+<http://example.com/Manipur/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Manipur/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Manipur/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Manipur/Male_Literacy_Rate/2011> <http://example.com/state> "Manipur" .
+<http://example.com/Manipur/Male_Literacy_Rate/2011> <http://example.com/value> "86.49" .
+<http://example.com/Manipur/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Meghalaya/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Meghalaya/Male_Literacy_Rate/2001> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Male_Literacy_Rate/2001> <http://example.com/value> "65.43" .
+<http://example.com/Meghalaya/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Meghalaya/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Meghalaya/Male_Literacy_Rate/2011> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Male_Literacy_Rate/2011> <http://example.com/value> "77.17" .
+<http://example.com/Meghalaya/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Mizoram/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Mizoram/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Mizoram/Male_Literacy_Rate/2001> <http://example.com/state> "Mizoram" .
+<http://example.com/Mizoram/Male_Literacy_Rate/2001> <http://example.com/value> "90.72" .
+<http://example.com/Mizoram/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Mizoram/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Mizoram/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Mizoram/Male_Literacy_Rate/2011> <http://example.com/state> "Mizoram" .
+<http://example.com/Mizoram/Male_Literacy_Rate/2011> <http://example.com/value> "93.72" .
+<http://example.com/Mizoram/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Nagaland/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Nagaland/Male_Literacy_Rate/2001> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Male_Literacy_Rate/2001> <http://example.com/value> "71.16" .
+<http://example.com/Nagaland/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Nagaland/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Nagaland/Male_Literacy_Rate/2011> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Male_Literacy_Rate/2011> <http://example.com/value> "83.29" .
+<http://example.com/Nagaland/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Delhi/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Delhi/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Delhi/Male_Literacy_Rate/2001> <http://example.com/state> "Delhi" .
+<http://example.com/Delhi/Male_Literacy_Rate/2001> <http://example.com/value> "87.33" .
+<http://example.com/Delhi/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Delhi/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Delhi/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Delhi/Male_Literacy_Rate/2011> <http://example.com/state> "Delhi" .
+<http://example.com/Delhi/Male_Literacy_Rate/2011> <http://example.com/value> "91.03" .
+<http://example.com/Delhi/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Orissa/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Orissa/Male_Literacy_Rate/2001> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Male_Literacy_Rate/2001> <http://example.com/value> "75.35" .
+<http://example.com/Orissa/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Orissa/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Orissa/Male_Literacy_Rate/2011> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Male_Literacy_Rate/2011> <http://example.com/value> "82.4" .
+<http://example.com/Orissa/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Puducherry/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Puducherry/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Puducherry/Male_Literacy_Rate/2001> <http://example.com/state> "Puducherry" .
+<http://example.com/Puducherry/Male_Literacy_Rate/2001> <http://example.com/value> "88.62" .
+<http://example.com/Puducherry/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Puducherry/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Puducherry/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Puducherry/Male_Literacy_Rate/2011> <http://example.com/state> "Puducherry" .
+<http://example.com/Puducherry/Male_Literacy_Rate/2011> <http://example.com/value> "92.12307298" .
+<http://example.com/Puducherry/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Punjab/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Punjab/Male_Literacy_Rate/2001> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Male_Literacy_Rate/2001> <http://example.com/value> "75.23" .
+<http://example.com/Punjab/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Punjab/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Punjab/Male_Literacy_Rate/2011> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Male_Literacy_Rate/2011> <http://example.com/value> "81.48" .
+<http://example.com/Punjab/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Rajasthan/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Rajasthan/Male_Literacy_Rate/2001> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Male_Literacy_Rate/2001> <http://example.com/value> "75.7" .
+<http://example.com/Rajasthan/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Rajasthan/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Rajasthan/Male_Literacy_Rate/2011> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Male_Literacy_Rate/2011> <http://example.com/value> "80.51" .
+<http://example.com/Rajasthan/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Sikkim/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Sikkim/Male_Literacy_Rate/2001> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Male_Literacy_Rate/2001> <http://example.com/value> "76.04" .
+<http://example.com/Sikkim/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Sikkim/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Sikkim/Male_Literacy_Rate/2011> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Male_Literacy_Rate/2011> <http://example.com/value> "87.3" .
+<http://example.com/Sikkim/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Tamil_Nadu/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Tamil_Nadu/Male_Literacy_Rate/2001> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Male_Literacy_Rate/2001> <http://example.com/value> "82.33" .
+<http://example.com/Tamil_Nadu/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Tamil_Nadu/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Tamil_Nadu/Male_Literacy_Rate/2011> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Male_Literacy_Rate/2011> <http://example.com/value> "86.81" .
+<http://example.com/Tamil_Nadu/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Tripura/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Tripura/Male_Literacy_Rate/2001> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Male_Literacy_Rate/2001> <http://example.com/value> "81.02" .
+<http://example.com/Tripura/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Tripura/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Tripura/Male_Literacy_Rate/2011> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Male_Literacy_Rate/2011> <http://example.com/value> "92.18" .
+<http://example.com/Tripura/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Uttar_Pradesh/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Uttar_Pradesh/Male_Literacy_Rate/2001> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Male_Literacy_Rate/2001> <http://example.com/value> "68.82" .
+<http://example.com/Uttar_Pradesh/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Uttar_Pradesh/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Uttar_Pradesh/Male_Literacy_Rate/2011> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Male_Literacy_Rate/2011> <http://example.com/value> "79.24" .
+<http://example.com/Uttar_Pradesh/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Uttarakhand/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Uttarakhand/Male_Literacy_Rate/2001> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Male_Literacy_Rate/2001> <http://example.com/value> "83.28" .
+<http://example.com/Uttarakhand/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/Uttarakhand/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/Uttarakhand/Male_Literacy_Rate/2011> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Male_Literacy_Rate/2011> <http://example.com/value> "88.33" .
+<http://example.com/Uttarakhand/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+
+<http://example.com/West_Bengal/Male_Literacy_Rate/2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Male_Literacy_Rate/2001> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/West_Bengal/Male_Literacy_Rate/2001> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Male_Literacy_Rate/2001> <http://example.com/value> "77.02" .
+<http://example.com/West_Bengal/Male_Literacy_Rate/2001> <http://example.com/year> "2001" .
+
+<http://example.com/West_Bengal/Male_Literacy_Rate/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Male_Literacy_Rate/2011> <http://example.com/factor> "Male Literacy Rate" .
+<http://example.com/West_Bengal/Male_Literacy_Rate/2011> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Male_Literacy_Rate/2011> <http://example.com/value> "82.67" .
+<http://example.com/West_Bengal/Male_Literacy_Rate/2011> <http://example.com/year> "2011" .
+

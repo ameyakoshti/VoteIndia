@@ -1,0 +1,1374 @@
+<http://example.com/India/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/India/Manufacturing_growth/2005> <http://example.com/state> "India" .
+<http://example.com/India/Manufacturing_growth/2005> <http://example.com/value> "10.1" .
+<http://example.com/India/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/India/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/India/Manufacturing_growth/2006> <http://example.com/state> "India" .
+<http://example.com/India/Manufacturing_growth/2006> <http://example.com/value> "14.32" .
+<http://example.com/India/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/India/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/India/Manufacturing_growth/2007> <http://example.com/state> "India" .
+<http://example.com/India/Manufacturing_growth/2007> <http://example.com/value> "10.28" .
+<http://example.com/India/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/India/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/India/Manufacturing_growth/2008> <http://example.com/state> "India" .
+<http://example.com/India/Manufacturing_growth/2008> <http://example.com/value> "4.33" .
+<http://example.com/India/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/India/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/India/Manufacturing_growth/2009> <http://example.com/state> "India" .
+<http://example.com/India/Manufacturing_growth/2009> <http://example.com/value> "11.3" .
+<http://example.com/India/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/India/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/India/Manufacturing_growth/2010> <http://example.com/state> "India" .
+<http://example.com/India/Manufacturing_growth/2010> <http://example.com/value> "9.73" .
+<http://example.com/India/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/India/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/India/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/India/Manufacturing_growth/2011> <http://example.com/state> "India" .
+<http://example.com/India/Manufacturing_growth/2011> <http://example.com/value> "2.69" .
+<http://example.com/India/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2005> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2005> <http://example.com/value> "-14.73" .
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2006> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2006> <http://example.com/value> "18.26" .
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2007> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2007> <http://example.com/value> "13.47" .
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2008> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2008> <http://example.com/value> "1.27" .
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2009> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2009> <http://example.com/value> "0.5" .
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2010> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2010> <http://example.com/value> "14.17" .
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2011> <http://example.com/state> "Andaman & Nicobar Islands" .
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2011> <http://example.com/value> "11.69" .
+<http://example.com/Andaman_&_Nicobar_Islands/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2005> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2005> <http://example.com/value> "5.21" .
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2006> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2006> <http://example.com/value> "17.68" .
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2007> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2007> <http://example.com/value> "7.44" .
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2008> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2008> <http://example.com/value> "13.62" .
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2009> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2009> <http://example.com/value> "5.08" .
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2010> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2010> <http://example.com/value> "6.7" .
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2011> <http://example.com/state> "Andhra Pradesh" .
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2011> <http://example.com/value> "7.6" .
+<http://example.com/Andhra_Pradesh/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2005> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2005> <http://example.com/value> "10.91" .
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2006> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2006> <http://example.com/value> "13.79" .
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2007> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2007> <http://example.com/value> "14.22" .
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2008> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2008> <http://example.com/value> "0.88" .
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2009> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2009> <http://example.com/value> "8.53" .
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2010> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2010> <http://example.com/value> "3.53" .
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2011> <http://example.com/state> "Arunachal Pradesh" .
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2011> <http://example.com/value> "2.28" .
+<http://example.com/Arunachal_Pradesh/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Assam/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Assam/Manufacturing_growth/2005> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Manufacturing_growth/2005> <http://example.com/value> "-6.77" .
+<http://example.com/Assam/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Assam/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Assam/Manufacturing_growth/2006> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Manufacturing_growth/2006> <http://example.com/value> "-1.83" .
+<http://example.com/Assam/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Assam/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Assam/Manufacturing_growth/2007> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Manufacturing_growth/2007> <http://example.com/value> "-6.52" .
+<http://example.com/Assam/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Assam/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Assam/Manufacturing_growth/2008> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Manufacturing_growth/2008> <http://example.com/value> "-4.31" .
+<http://example.com/Assam/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Assam/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Assam/Manufacturing_growth/2009> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Manufacturing_growth/2009> <http://example.com/value> "4.07" .
+<http://example.com/Assam/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Assam/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Assam/Manufacturing_growth/2010> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Manufacturing_growth/2010> <http://example.com/value> "3.81" .
+<http://example.com/Assam/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Assam/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Assam/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Assam/Manufacturing_growth/2011> <http://example.com/state> "Assam" .
+<http://example.com/Assam/Manufacturing_growth/2011> <http://example.com/value> "4.82" .
+<http://example.com/Assam/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Bihar/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Bihar/Manufacturing_growth/2005> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Manufacturing_growth/2005> <http://example.com/value> "-6.24" .
+<http://example.com/Bihar/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Bihar/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Bihar/Manufacturing_growth/2006> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Manufacturing_growth/2006> <http://example.com/value> "6.41" .
+<http://example.com/Bihar/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Bihar/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Bihar/Manufacturing_growth/2007> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Manufacturing_growth/2007> <http://example.com/value> "24.7" .
+<http://example.com/Bihar/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Bihar/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Bihar/Manufacturing_growth/2008> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Manufacturing_growth/2008> <http://example.com/value> "19.95" .
+<http://example.com/Bihar/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Bihar/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Bihar/Manufacturing_growth/2009> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Manufacturing_growth/2009> <http://example.com/value> "-4.04" .
+<http://example.com/Bihar/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Bihar/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Bihar/Manufacturing_growth/2010> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Manufacturing_growth/2010> <http://example.com/value> "8.52" .
+<http://example.com/Bihar/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Bihar/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Bihar/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Bihar/Manufacturing_growth/2011> <http://example.com/state> "Bihar" .
+<http://example.com/Bihar/Manufacturing_growth/2011> <http://example.com/value> "8.95" .
+<http://example.com/Bihar/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Chandigarh/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chandigarh/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Chandigarh/Manufacturing_growth/2005> <http://example.com/state> "Chandigarh" .
+<http://example.com/Chandigarh/Manufacturing_growth/2005> <http://example.com/value> "-7.43" .
+<http://example.com/Chandigarh/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Chandigarh/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chandigarh/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Chandigarh/Manufacturing_growth/2006> <http://example.com/state> "Chandigarh" .
+<http://example.com/Chandigarh/Manufacturing_growth/2006> <http://example.com/value> "22.54" .
+<http://example.com/Chandigarh/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Chandigarh/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chandigarh/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Chandigarh/Manufacturing_growth/2007> <http://example.com/state> "Chandigarh" .
+<http://example.com/Chandigarh/Manufacturing_growth/2007> <http://example.com/value> "11.66" .
+<http://example.com/Chandigarh/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Chandigarh/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chandigarh/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Chandigarh/Manufacturing_growth/2008> <http://example.com/state> "Chandigarh" .
+<http://example.com/Chandigarh/Manufacturing_growth/2008> <http://example.com/value> "0.49" .
+<http://example.com/Chandigarh/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Chandigarh/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chandigarh/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Chandigarh/Manufacturing_growth/2009> <http://example.com/state> "Chandigarh" .
+<http://example.com/Chandigarh/Manufacturing_growth/2009> <http://example.com/value> "18.69" .
+<http://example.com/Chandigarh/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Chandigarh/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chandigarh/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Chandigarh/Manufacturing_growth/2010> <http://example.com/state> "Chandigarh" .
+<http://example.com/Chandigarh/Manufacturing_growth/2010> <http://example.com/value> "18.48" .
+<http://example.com/Chandigarh/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Chandigarh/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chandigarh/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Chandigarh/Manufacturing_growth/2011> <http://example.com/state> "Chandigarh" .
+<http://example.com/Chandigarh/Manufacturing_growth/2011> <http://example.com/value> "11.52" .
+<http://example.com/Chandigarh/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Chhattisgarh/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Chhattisgarh/Manufacturing_growth/2005> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Manufacturing_growth/2005> <http://example.com/value> "-18.39" .
+<http://example.com/Chhattisgarh/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Chhattisgarh/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Chhattisgarh/Manufacturing_growth/2006> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Manufacturing_growth/2006> <http://example.com/value> "50.9" .
+<http://example.com/Chhattisgarh/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Chhattisgarh/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Chhattisgarh/Manufacturing_growth/2007> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Manufacturing_growth/2007> <http://example.com/value> "12.65" .
+<http://example.com/Chhattisgarh/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Chhattisgarh/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Chhattisgarh/Manufacturing_growth/2008> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Manufacturing_growth/2008> <http://example.com/value> "2.43" .
+<http://example.com/Chhattisgarh/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Chhattisgarh/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Chhattisgarh/Manufacturing_growth/2009> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Manufacturing_growth/2009> <http://example.com/value> "-10.46" .
+<http://example.com/Chhattisgarh/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Chhattisgarh/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Chhattisgarh/Manufacturing_growth/2010> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Manufacturing_growth/2010> <http://example.com/value> "7.85" .
+<http://example.com/Chhattisgarh/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Chhattisgarh/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Chhattisgarh/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Chhattisgarh/Manufacturing_growth/2011> <http://example.com/state> "Chhattisgarh" .
+<http://example.com/Chhattisgarh/Manufacturing_growth/2011> <http://example.com/value> "8.17" .
+<http://example.com/Chhattisgarh/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Goa/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Goa/Manufacturing_growth/2005> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Manufacturing_growth/2005> <http://example.com/value> "5.19" .
+<http://example.com/Goa/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Goa/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Goa/Manufacturing_growth/2006> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Manufacturing_growth/2006> <http://example.com/value> "10.35" .
+<http://example.com/Goa/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Goa/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Goa/Manufacturing_growth/2007> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Manufacturing_growth/2007> <http://example.com/value> "3.52" .
+<http://example.com/Goa/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Goa/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Goa/Manufacturing_growth/2008> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Manufacturing_growth/2008> <http://example.com/value> "5.68" .
+<http://example.com/Goa/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Goa/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Goa/Manufacturing_growth/2009> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Manufacturing_growth/2009> <http://example.com/value> "8.57" .
+<http://example.com/Goa/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Goa/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Goa/Manufacturing_growth/2010> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Manufacturing_growth/2010> <http://example.com/value> "5.91" .
+<http://example.com/Goa/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Goa/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Goa/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Goa/Manufacturing_growth/2011> <http://example.com/state> "Goa" .
+<http://example.com/Goa/Manufacturing_growth/2011> <http://example.com/value> "12.05" .
+<http://example.com/Goa/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Gujarat/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Gujarat/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Gujarat/Manufacturing_growth/2005> <http://example.com/state> "Gujarat" .
+<http://example.com/Gujarat/Manufacturing_growth/2005> <http://example.com/value> "18.47" .
+<http://example.com/Gujarat/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Gujarat/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Gujarat/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Gujarat/Manufacturing_growth/2006> <http://example.com/state> "Gujarat" .
+<http://example.com/Gujarat/Manufacturing_growth/2006> <http://example.com/value> "10.43" .
+<http://example.com/Gujarat/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Gujarat/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Gujarat/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Gujarat/Manufacturing_growth/2007> <http://example.com/state> "Gujarat" .
+<http://example.com/Gujarat/Manufacturing_growth/2007> <http://example.com/value> "7.87" .
+<http://example.com/Gujarat/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Gujarat/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Gujarat/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Gujarat/Manufacturing_growth/2008> <http://example.com/state> "Gujarat" .
+<http://example.com/Gujarat/Manufacturing_growth/2008> <http://example.com/value> "4.27" .
+<http://example.com/Gujarat/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Gujarat/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Gujarat/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Gujarat/Manufacturing_growth/2009> <http://example.com/state> "Gujarat" .
+<http://example.com/Gujarat/Manufacturing_growth/2009> <http://example.com/value> "13.56" .
+<http://example.com/Gujarat/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Gujarat/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Gujarat/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Gujarat/Manufacturing_growth/2010> <http://example.com/state> "Gujarat" .
+<http://example.com/Gujarat/Manufacturing_growth/2010> <http://example.com/value> "8.73" .
+<http://example.com/Gujarat/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Haryana/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Haryana/Manufacturing_growth/2005> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Manufacturing_growth/2005> <http://example.com/value> "7.66" .
+<http://example.com/Haryana/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Haryana/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Haryana/Manufacturing_growth/2006> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Manufacturing_growth/2006> <http://example.com/value> "9.09" .
+<http://example.com/Haryana/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Haryana/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Haryana/Manufacturing_growth/2007> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Manufacturing_growth/2007> <http://example.com/value> "8.44" .
+<http://example.com/Haryana/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Haryana/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Haryana/Manufacturing_growth/2008> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Manufacturing_growth/2008> <http://example.com/value> "2.65" .
+<http://example.com/Haryana/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Haryana/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Haryana/Manufacturing_growth/2009> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Manufacturing_growth/2009> <http://example.com/value> "10.61" .
+<http://example.com/Haryana/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Haryana/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Haryana/Manufacturing_growth/2010> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Manufacturing_growth/2010> <http://example.com/value> "8.2" .
+<http://example.com/Haryana/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Haryana/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Haryana/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Haryana/Manufacturing_growth/2011> <http://example.com/state> "Haryana" .
+<http://example.com/Haryana/Manufacturing_growth/2011> <http://example.com/value> "4.59" .
+<http://example.com/Haryana/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2005> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2005> <http://example.com/value> "6.8" .
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2006> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2006> <http://example.com/value> "13.23" .
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2007> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2007> <http://example.com/value> "7.18" .
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2008> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2008> <http://example.com/value> "27.08" .
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2009> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2009> <http://example.com/value> "26.75" .
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2010> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2010> <http://example.com/value> "6.31" .
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2011> <http://example.com/state> "Himachal Pradesh" .
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2011> <http://example.com/value> "7.62" .
+<http://example.com/Himachal_Pradesh/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2005> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2005> <http://example.com/value> "11.19" .
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2006> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2006> <http://example.com/value> "14.6" .
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2007> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2007> <http://example.com/value> "8.69" .
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2008> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2008> <http://example.com/value> "10.3" .
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2009> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2009> <http://example.com/value> "10.36" .
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2010> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2010> <http://example.com/value> "9.94" .
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2011> <http://example.com/state> "Jammu & Kashmir" .
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2011> <http://example.com/value> "10.47" .
+<http://example.com/Jammu_&_Kashmir/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Jharkhand/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Jharkhand/Manufacturing_growth/2005> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Manufacturing_growth/2005> <http://example.com/value> "-22.52" .
+<http://example.com/Jharkhand/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Jharkhand/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Jharkhand/Manufacturing_growth/2006> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Manufacturing_growth/2006> <http://example.com/value> "-12.46" .
+<http://example.com/Jharkhand/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Jharkhand/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Jharkhand/Manufacturing_growth/2007> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Manufacturing_growth/2007> <http://example.com/value> "61.03" .
+<http://example.com/Jharkhand/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Jharkhand/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Jharkhand/Manufacturing_growth/2008> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Manufacturing_growth/2008> <http://example.com/value> "-31.78" .
+<http://example.com/Jharkhand/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Jharkhand/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Jharkhand/Manufacturing_growth/2009> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Manufacturing_growth/2009> <http://example.com/value> "5.17" .
+<http://example.com/Jharkhand/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Jharkhand/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Jharkhand/Manufacturing_growth/2010> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Manufacturing_growth/2010> <http://example.com/value> "5.04" .
+<http://example.com/Jharkhand/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Jharkhand/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Jharkhand/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Jharkhand/Manufacturing_growth/2011> <http://example.com/state> "Jharkhand" .
+<http://example.com/Jharkhand/Manufacturing_growth/2011> <http://example.com/value> "5.06" .
+<http://example.com/Jharkhand/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Karnataka/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Karnataka/Manufacturing_growth/2005> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Manufacturing_growth/2005> <http://example.com/value> "3.61" .
+<http://example.com/Karnataka/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Karnataka/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Karnataka/Manufacturing_growth/2006> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Manufacturing_growth/2006> <http://example.com/value> "24.02" .
+<http://example.com/Karnataka/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Karnataka/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Karnataka/Manufacturing_growth/2007> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Manufacturing_growth/2007> <http://example.com/value> "6.54" .
+<http://example.com/Karnataka/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Karnataka/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Karnataka/Manufacturing_growth/2008> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Manufacturing_growth/2008> <http://example.com/value> "12.47" .
+<http://example.com/Karnataka/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Karnataka/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Karnataka/Manufacturing_growth/2009> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Manufacturing_growth/2009> <http://example.com/value> "-5.93" .
+<http://example.com/Karnataka/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Karnataka/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Karnataka/Manufacturing_growth/2010> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Manufacturing_growth/2010> <http://example.com/value> "10.95" .
+<http://example.com/Karnataka/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Karnataka/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Karnataka/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Karnataka/Manufacturing_growth/2011> <http://example.com/state> "Karnataka" .
+<http://example.com/Karnataka/Manufacturing_growth/2011> <http://example.com/value> "4.02" .
+<http://example.com/Karnataka/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Kerala/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Kerala/Manufacturing_growth/2005> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Manufacturing_growth/2005> <http://example.com/value> "2.08" .
+<http://example.com/Kerala/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Kerala/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Kerala/Manufacturing_growth/2006> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Manufacturing_growth/2006> <http://example.com/value> "7.15" .
+<http://example.com/Kerala/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Kerala/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Kerala/Manufacturing_growth/2007> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Manufacturing_growth/2007> <http://example.com/value> "17.76" .
+<http://example.com/Kerala/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Kerala/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Kerala/Manufacturing_growth/2008> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Manufacturing_growth/2008> <http://example.com/value> "2.1" .
+<http://example.com/Kerala/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Kerala/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Kerala/Manufacturing_growth/2009> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Manufacturing_growth/2009> <http://example.com/value> "8.74" .
+<http://example.com/Kerala/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Kerala/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Kerala/Manufacturing_growth/2010> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Manufacturing_growth/2010> <http://example.com/value> "9.57" .
+<http://example.com/Kerala/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Kerala/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Kerala/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Kerala/Manufacturing_growth/2011> <http://example.com/state> "Kerala" .
+<http://example.com/Kerala/Manufacturing_growth/2011> <http://example.com/value> "7.98" .
+<http://example.com/Kerala/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2005> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2005> <http://example.com/value> "7.16" .
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2006> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2006> <http://example.com/value> "28.29" .
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2007> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2007> <http://example.com/value> "4.54" .
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2008> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2008> <http://example.com/value> "18.19" .
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2009> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2009> <http://example.com/value> "6.76" .
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2010> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2010> <http://example.com/value> "6.47" .
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2011> <http://example.com/state> "Madhya Pradesh" .
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2011> <http://example.com/value> "4.63" .
+<http://example.com/Madhya_Pradesh/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Maharashtra/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Maharashtra/Manufacturing_growth/2005> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Manufacturing_growth/2005> <http://example.com/value> "24.92" .
+<http://example.com/Maharashtra/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Maharashtra/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Maharashtra/Manufacturing_growth/2006> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Manufacturing_growth/2006> <http://example.com/value> "18.78" .
+<http://example.com/Maharashtra/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Maharashtra/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Maharashtra/Manufacturing_growth/2007> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Manufacturing_growth/2007> <http://example.com/value> "8.7" .
+<http://example.com/Maharashtra/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Maharashtra/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Maharashtra/Manufacturing_growth/2008> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Manufacturing_growth/2008> <http://example.com/value> "-4.33" .
+<http://example.com/Maharashtra/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Maharashtra/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Maharashtra/Manufacturing_growth/2009> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Manufacturing_growth/2009> <http://example.com/value> "7.16" .
+<http://example.com/Maharashtra/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Maharashtra/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Maharashtra/Manufacturing_growth/2010> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Manufacturing_growth/2010> <http://example.com/value> "8.34" .
+<http://example.com/Maharashtra/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Maharashtra/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Maharashtra/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Maharashtra/Manufacturing_growth/2011> <http://example.com/state> "Maharashtra" .
+<http://example.com/Maharashtra/Manufacturing_growth/2011> <http://example.com/value> "4.24" .
+<http://example.com/Maharashtra/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Manipur/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Manipur/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Manipur/Manufacturing_growth/2005> <http://example.com/state> "Manipur" .
+<http://example.com/Manipur/Manufacturing_growth/2005> <http://example.com/value> "6.43" .
+<http://example.com/Manipur/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Manipur/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Manipur/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Manipur/Manufacturing_growth/2006> <http://example.com/state> "Manipur" .
+<http://example.com/Manipur/Manufacturing_growth/2006> <http://example.com/value> "13.18" .
+<http://example.com/Manipur/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Manipur/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Manipur/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Manipur/Manufacturing_growth/2007> <http://example.com/state> "Manipur" .
+<http://example.com/Manipur/Manufacturing_growth/2007> <http://example.com/value> "17.18" .
+<http://example.com/Manipur/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Manipur/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Manipur/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Manipur/Manufacturing_growth/2008> <http://example.com/state> "Manipur" .
+<http://example.com/Manipur/Manufacturing_growth/2008> <http://example.com/value> "-2.59" .
+<http://example.com/Manipur/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Manipur/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Manipur/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Manipur/Manufacturing_growth/2009> <http://example.com/state> "Manipur" .
+<http://example.com/Manipur/Manufacturing_growth/2009> <http://example.com/value> "7.17" .
+<http://example.com/Manipur/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Manipur/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Manipur/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Manipur/Manufacturing_growth/2010> <http://example.com/state> "Manipur" .
+<http://example.com/Manipur/Manufacturing_growth/2010> <http://example.com/value> "7.34" .
+<http://example.com/Manipur/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Manipur/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Manipur/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Manipur/Manufacturing_growth/2011> <http://example.com/state> "Manipur" .
+<http://example.com/Manipur/Manufacturing_growth/2011> <http://example.com/value> "8.66" .
+<http://example.com/Manipur/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Meghalaya/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Meghalaya/Manufacturing_growth/2005> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Manufacturing_growth/2005> <http://example.com/value> "74.85" .
+<http://example.com/Meghalaya/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Meghalaya/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Meghalaya/Manufacturing_growth/2006> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Manufacturing_growth/2006> <http://example.com/value> "56.88" .
+<http://example.com/Meghalaya/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Meghalaya/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Meghalaya/Manufacturing_growth/2007> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Manufacturing_growth/2007> <http://example.com/value> "11.7" .
+<http://example.com/Meghalaya/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Meghalaya/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Meghalaya/Manufacturing_growth/2008> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Manufacturing_growth/2008> <http://example.com/value> "-4.67" .
+<http://example.com/Meghalaya/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Meghalaya/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Meghalaya/Manufacturing_growth/2009> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Manufacturing_growth/2009> <http://example.com/value> "19.68" .
+<http://example.com/Meghalaya/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Meghalaya/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Meghalaya/Manufacturing_growth/2010> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Manufacturing_growth/2010> <http://example.com/value> "19.38" .
+<http://example.com/Meghalaya/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Meghalaya/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Meghalaya/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Meghalaya/Manufacturing_growth/2011> <http://example.com/state> "Meghalaya" .
+<http://example.com/Meghalaya/Manufacturing_growth/2011> <http://example.com/value> "19.89" .
+<http://example.com/Meghalaya/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Mizoram/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Mizoram/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Mizoram/Manufacturing_growth/2005> <http://example.com/state> "Mizoram" .
+<http://example.com/Mizoram/Manufacturing_growth/2005> <http://example.com/value> "2.04" .
+<http://example.com/Mizoram/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Mizoram/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Mizoram/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Mizoram/Manufacturing_growth/2006> <http://example.com/state> "Mizoram" .
+<http://example.com/Mizoram/Manufacturing_growth/2006> <http://example.com/value> "16.55" .
+<http://example.com/Mizoram/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Mizoram/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Mizoram/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Mizoram/Manufacturing_growth/2007> <http://example.com/state> "Mizoram" .
+<http://example.com/Mizoram/Manufacturing_growth/2007> <http://example.com/value> "19.67" .
+<http://example.com/Mizoram/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Mizoram/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Mizoram/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Mizoram/Manufacturing_growth/2008> <http://example.com/state> "Mizoram" .
+<http://example.com/Mizoram/Manufacturing_growth/2008> <http://example.com/value> "-3.12" .
+<http://example.com/Mizoram/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Mizoram/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Mizoram/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Mizoram/Manufacturing_growth/2009> <http://example.com/state> "Mizoram" .
+<http://example.com/Mizoram/Manufacturing_growth/2009> <http://example.com/value> "-2.83" .
+<http://example.com/Mizoram/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Mizoram/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Mizoram/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Mizoram/Manufacturing_growth/2010> <http://example.com/state> "Mizoram" .
+<http://example.com/Mizoram/Manufacturing_growth/2010> <http://example.com/value> "20.61" .
+<http://example.com/Mizoram/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Nagaland/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Nagaland/Manufacturing_growth/2005> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Manufacturing_growth/2005> <http://example.com/value> "20.47" .
+<http://example.com/Nagaland/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Nagaland/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Nagaland/Manufacturing_growth/2006> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Manufacturing_growth/2006> <http://example.com/value> "13.55" .
+<http://example.com/Nagaland/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Nagaland/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Nagaland/Manufacturing_growth/2007> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Manufacturing_growth/2007> <http://example.com/value> "13.37" .
+<http://example.com/Nagaland/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Nagaland/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Nagaland/Manufacturing_growth/2008> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Manufacturing_growth/2008> <http://example.com/value> "-13.27" .
+<http://example.com/Nagaland/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Nagaland/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Nagaland/Manufacturing_growth/2009> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Manufacturing_growth/2009> <http://example.com/value> "57.64" .
+<http://example.com/Nagaland/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Nagaland/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Nagaland/Manufacturing_growth/2010> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Manufacturing_growth/2010> <http://example.com/value> "9.79" .
+<http://example.com/Nagaland/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Nagaland/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Nagaland/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Nagaland/Manufacturing_growth/2011> <http://example.com/state> "Nagaland" .
+<http://example.com/Nagaland/Manufacturing_growth/2011> <http://example.com/value> "3.3" .
+<http://example.com/Nagaland/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Delhi/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Delhi/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Delhi/Manufacturing_growth/2005> <http://example.com/state> "Delhi" .
+<http://example.com/Delhi/Manufacturing_growth/2005> <http://example.com/value> "8.3" .
+<http://example.com/Delhi/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Delhi/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Delhi/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Delhi/Manufacturing_growth/2006> <http://example.com/state> "Delhi" .
+<http://example.com/Delhi/Manufacturing_growth/2006> <http://example.com/value> "7.21" .
+<http://example.com/Delhi/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Delhi/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Delhi/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Delhi/Manufacturing_growth/2007> <http://example.com/state> "Delhi" .
+<http://example.com/Delhi/Manufacturing_growth/2007> <http://example.com/value> "10.76" .
+<http://example.com/Delhi/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Delhi/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Delhi/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Delhi/Manufacturing_growth/2008> <http://example.com/state> "Delhi" .
+<http://example.com/Delhi/Manufacturing_growth/2008> <http://example.com/value> "-3.15" .
+<http://example.com/Delhi/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Delhi/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Delhi/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Delhi/Manufacturing_growth/2009> <http://example.com/state> "Delhi" .
+<http://example.com/Delhi/Manufacturing_growth/2009> <http://example.com/value> "3.98" .
+<http://example.com/Delhi/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Delhi/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Delhi/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Delhi/Manufacturing_growth/2010> <http://example.com/state> "Delhi" .
+<http://example.com/Delhi/Manufacturing_growth/2010> <http://example.com/value> "6.44" .
+<http://example.com/Delhi/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Delhi/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Delhi/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Delhi/Manufacturing_growth/2011> <http://example.com/state> "Delhi" .
+<http://example.com/Delhi/Manufacturing_growth/2011> <http://example.com/value> "8.08" .
+<http://example.com/Delhi/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Orissa/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Orissa/Manufacturing_growth/2005> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Manufacturing_growth/2005> <http://example.com/value> "2.53" .
+<http://example.com/Orissa/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Orissa/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Orissa/Manufacturing_growth/2006> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Manufacturing_growth/2006> <http://example.com/value> "26.62" .
+<http://example.com/Orissa/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Orissa/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Orissa/Manufacturing_growth/2007> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Manufacturing_growth/2007> <http://example.com/value> "33.04" .
+<http://example.com/Orissa/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Orissa/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Orissa/Manufacturing_growth/2008> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Manufacturing_growth/2008> <http://example.com/value> "13.36" .
+<http://example.com/Orissa/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Orissa/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Orissa/Manufacturing_growth/2009> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Manufacturing_growth/2009> <http://example.com/value> "-6.45" .
+<http://example.com/Orissa/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Orissa/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Orissa/Manufacturing_growth/2010> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Manufacturing_growth/2010> <http://example.com/value> "17.21" .
+<http://example.com/Orissa/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Orissa/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Orissa/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Orissa/Manufacturing_growth/2011> <http://example.com/state> "Orissa" .
+<http://example.com/Orissa/Manufacturing_growth/2011> <http://example.com/value> "11.88" .
+<http://example.com/Orissa/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Puducherry/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Puducherry/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Puducherry/Manufacturing_growth/2005> <http://example.com/state> "Puducherry" .
+<http://example.com/Puducherry/Manufacturing_growth/2005> <http://example.com/value> "47.15" .
+<http://example.com/Puducherry/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Puducherry/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Puducherry/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Puducherry/Manufacturing_growth/2006> <http://example.com/state> "Puducherry" .
+<http://example.com/Puducherry/Manufacturing_growth/2006> <http://example.com/value> "-9.41" .
+<http://example.com/Puducherry/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Puducherry/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Puducherry/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Puducherry/Manufacturing_growth/2007> <http://example.com/state> "Puducherry" .
+<http://example.com/Puducherry/Manufacturing_growth/2007> <http://example.com/value> "2.05" .
+<http://example.com/Puducherry/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Puducherry/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Puducherry/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Puducherry/Manufacturing_growth/2008> <http://example.com/state> "Puducherry" .
+<http://example.com/Puducherry/Manufacturing_growth/2008> <http://example.com/value> "11.26" .
+<http://example.com/Puducherry/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Puducherry/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Puducherry/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Puducherry/Manufacturing_growth/2009> <http://example.com/state> "Puducherry" .
+<http://example.com/Puducherry/Manufacturing_growth/2009> <http://example.com/value> "10.14" .
+<http://example.com/Puducherry/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Puducherry/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Puducherry/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Puducherry/Manufacturing_growth/2010> <http://example.com/state> "Puducherry" .
+<http://example.com/Puducherry/Manufacturing_growth/2010> <http://example.com/value> "10.8" .
+<http://example.com/Puducherry/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Puducherry/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Puducherry/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Puducherry/Manufacturing_growth/2011> <http://example.com/state> "Puducherry" .
+<http://example.com/Puducherry/Manufacturing_growth/2011> <http://example.com/value> "11.08" .
+<http://example.com/Puducherry/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Punjab/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Punjab/Manufacturing_growth/2005> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Manufacturing_growth/2005> <http://example.com/value> "10.12" .
+<http://example.com/Punjab/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Punjab/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Punjab/Manufacturing_growth/2006> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Manufacturing_growth/2006> <http://example.com/value> "24.32" .
+<http://example.com/Punjab/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Punjab/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Punjab/Manufacturing_growth/2007> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Manufacturing_growth/2007> <http://example.com/value> "20.19" .
+<http://example.com/Punjab/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Punjab/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Punjab/Manufacturing_growth/2008> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Manufacturing_growth/2008> <http://example.com/value> "3.16" .
+<http://example.com/Punjab/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Punjab/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Punjab/Manufacturing_growth/2009> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Manufacturing_growth/2009> <http://example.com/value> "12.04" .
+<http://example.com/Punjab/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Punjab/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Punjab/Manufacturing_growth/2010> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Manufacturing_growth/2010> <http://example.com/value> "7.85" .
+<http://example.com/Punjab/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Punjab/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Punjab/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Punjab/Manufacturing_growth/2011> <http://example.com/state> "Punjab" .
+<http://example.com/Punjab/Manufacturing_growth/2011> <http://example.com/value> "10.27" .
+<http://example.com/Punjab/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Rajasthan/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Rajasthan/Manufacturing_growth/2005> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Manufacturing_growth/2005> <http://example.com/value> "10.16" .
+<http://example.com/Rajasthan/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Rajasthan/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Rajasthan/Manufacturing_growth/2006> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Manufacturing_growth/2006> <http://example.com/value> "23.61" .
+<http://example.com/Rajasthan/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Rajasthan/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Rajasthan/Manufacturing_growth/2007> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Manufacturing_growth/2007> <http://example.com/value> "2.91" .
+<http://example.com/Rajasthan/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Rajasthan/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Rajasthan/Manufacturing_growth/2008> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Manufacturing_growth/2008> <http://example.com/value> "11.69" .
+<http://example.com/Rajasthan/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Rajasthan/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Rajasthan/Manufacturing_growth/2009> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Manufacturing_growth/2009> <http://example.com/value> "4.53" .
+<http://example.com/Rajasthan/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Rajasthan/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Rajasthan/Manufacturing_growth/2010> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Manufacturing_growth/2010> <http://example.com/value> "8.31" .
+<http://example.com/Rajasthan/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Rajasthan/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Rajasthan/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Rajasthan/Manufacturing_growth/2011> <http://example.com/state> "Rajasthan" .
+<http://example.com/Rajasthan/Manufacturing_growth/2011> <http://example.com/value> "4.49" .
+<http://example.com/Rajasthan/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Sikkim/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Sikkim/Manufacturing_growth/2005> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Manufacturing_growth/2005> <http://example.com/value> "2.34" .
+<http://example.com/Sikkim/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Sikkim/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Sikkim/Manufacturing_growth/2006> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Manufacturing_growth/2006> <http://example.com/value> "7.8" .
+<http://example.com/Sikkim/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Sikkim/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Sikkim/Manufacturing_growth/2007> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Manufacturing_growth/2007> <http://example.com/value> "14.66" .
+<http://example.com/Sikkim/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Sikkim/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Sikkim/Manufacturing_growth/2008> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Manufacturing_growth/2008> <http://example.com/value> "9" .
+<http://example.com/Sikkim/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Sikkim/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Sikkim/Manufacturing_growth/2009> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Manufacturing_growth/2009> <http://example.com/value> "1251.07" .
+<http://example.com/Sikkim/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Sikkim/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Sikkim/Manufacturing_growth/2010> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Manufacturing_growth/2010> <http://example.com/value> "2.19" .
+<http://example.com/Sikkim/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Sikkim/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Sikkim/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Sikkim/Manufacturing_growth/2011> <http://example.com/state> "Sikkim" .
+<http://example.com/Sikkim/Manufacturing_growth/2011> <http://example.com/value> "4" .
+<http://example.com/Sikkim/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2005> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2005> <http://example.com/value> "15.11" .
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2006> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2006> <http://example.com/value> "18.75" .
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2007> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2007> <http://example.com/value> "0.59" .
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2008> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2008> <http://example.com/value> "-1.31" .
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2009> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2009> <http://example.com/value> "29.18" .
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2010> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2010> <http://example.com/value> "9.67" .
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2011> <http://example.com/state> "Tamil Nadu" .
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2011> <http://example.com/value> "3.46" .
+<http://example.com/Tamil_Nadu/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Tripura/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Tripura/Manufacturing_growth/2005> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Manufacturing_growth/2005> <http://example.com/value> "-28.68" .
+<http://example.com/Tripura/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Tripura/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Tripura/Manufacturing_growth/2006> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Manufacturing_growth/2006> <http://example.com/value> "15.5" .
+<http://example.com/Tripura/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Tripura/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Tripura/Manufacturing_growth/2007> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Manufacturing_growth/2007> <http://example.com/value> "8.23" .
+<http://example.com/Tripura/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Tripura/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Tripura/Manufacturing_growth/2008> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Manufacturing_growth/2008> <http://example.com/value> "6.3" .
+<http://example.com/Tripura/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Tripura/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Tripura/Manufacturing_growth/2009> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Manufacturing_growth/2009> <http://example.com/value> "5.93" .
+<http://example.com/Tripura/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Tripura/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Tripura/Manufacturing_growth/2010> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Manufacturing_growth/2010> <http://example.com/value> "6.16" .
+<http://example.com/Tripura/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Tripura/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Tripura/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Tripura/Manufacturing_growth/2011> <http://example.com/state> "Tripura" .
+<http://example.com/Tripura/Manufacturing_growth/2011> <http://example.com/value> "6.4" .
+<http://example.com/Tripura/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2005> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2005> <http://example.com/value> "5.33" .
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2006> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2006> <http://example.com/value> "19.87" .
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2007> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2007> <http://example.com/value> "9.33" .
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2008> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2008> <http://example.com/value> "-7.8" .
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2009> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2009> <http://example.com/value> "15.36" .
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2010> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2010> <http://example.com/value> "7.17" .
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2011> <http://example.com/state> "Uttar Pradesh" .
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2011> <http://example.com/value> "2.93" .
+<http://example.com/Uttar_Pradesh/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/Uttarakhand/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Uttarakhand/Manufacturing_growth/2005> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Manufacturing_growth/2005> <http://example.com/value> "46.66" .
+<http://example.com/Uttarakhand/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/Uttarakhand/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Uttarakhand/Manufacturing_growth/2006> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Manufacturing_growth/2006> <http://example.com/value> "26.52" .
+<http://example.com/Uttarakhand/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/Uttarakhand/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Uttarakhand/Manufacturing_growth/2007> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Manufacturing_growth/2007> <http://example.com/value> "46.05" .
+<http://example.com/Uttarakhand/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/Uttarakhand/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Uttarakhand/Manufacturing_growth/2008> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Manufacturing_growth/2008> <http://example.com/value> "20.96" .
+<http://example.com/Uttarakhand/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/Uttarakhand/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Uttarakhand/Manufacturing_growth/2009> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Manufacturing_growth/2009> <http://example.com/value> "24.43" .
+<http://example.com/Uttarakhand/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/Uttarakhand/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Uttarakhand/Manufacturing_growth/2010> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Manufacturing_growth/2010> <http://example.com/value> "9.66" .
+<http://example.com/Uttarakhand/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/Uttarakhand/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/Uttarakhand/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/Uttarakhand/Manufacturing_growth/2011> <http://example.com/state> "Uttarakhand" .
+<http://example.com/Uttarakhand/Manufacturing_growth/2011> <http://example.com/value> "7.18" .
+<http://example.com/Uttarakhand/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
+<http://example.com/West_Bengal/Manufacturing_growth/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Manufacturing_growth/2005> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/West_Bengal/Manufacturing_growth/2005> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Manufacturing_growth/2005> <http://example.com/value> "-2.32" .
+<http://example.com/West_Bengal/Manufacturing_growth/2005> <http://example.com/year> "2005" .
+
+<http://example.com/West_Bengal/Manufacturing_growth/2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Manufacturing_growth/2006> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/West_Bengal/Manufacturing_growth/2006> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Manufacturing_growth/2006> <http://example.com/value> "11.93" .
+<http://example.com/West_Bengal/Manufacturing_growth/2006> <http://example.com/year> "2006" .
+
+<http://example.com/West_Bengal/Manufacturing_growth/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Manufacturing_growth/2007> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/West_Bengal/Manufacturing_growth/2007> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Manufacturing_growth/2007> <http://example.com/value> "12.98" .
+<http://example.com/West_Bengal/Manufacturing_growth/2007> <http://example.com/year> "2007" .
+
+<http://example.com/West_Bengal/Manufacturing_growth/2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Manufacturing_growth/2008> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/West_Bengal/Manufacturing_growth/2008> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Manufacturing_growth/2008> <http://example.com/value> "0.89" .
+<http://example.com/West_Bengal/Manufacturing_growth/2008> <http://example.com/year> "2008" .
+
+<http://example.com/West_Bengal/Manufacturing_growth/2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Manufacturing_growth/2009> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/West_Bengal/Manufacturing_growth/2009> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Manufacturing_growth/2009> <http://example.com/value> "11.83" .
+<http://example.com/West_Bengal/Manufacturing_growth/2009> <http://example.com/year> "2009" .
+
+<http://example.com/West_Bengal/Manufacturing_growth/2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Manufacturing_growth/2010> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/West_Bengal/Manufacturing_growth/2010> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Manufacturing_growth/2010> <http://example.com/value> "8.86" .
+<http://example.com/West_Bengal/Manufacturing_growth/2010> <http://example.com/year> "2010" .
+
+<http://example.com/West_Bengal/Manufacturing_growth/2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/factors> .
+<http://example.com/West_Bengal/Manufacturing_growth/2011> <http://example.com/factor> "Manufacturing growth" .
+<http://example.com/West_Bengal/Manufacturing_growth/2011> <http://example.com/state> "West Bengal" .
+<http://example.com/West_Bengal/Manufacturing_growth/2011> <http://example.com/value> "2.18" .
+<http://example.com/West_Bengal/Manufacturing_growth/2011> <http://example.com/year> "2011" .
+
