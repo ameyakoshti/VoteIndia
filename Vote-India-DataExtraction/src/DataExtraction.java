@@ -24,39 +24,105 @@ public class DataExtraction {
 
 		DataExtraction cmsOfAllStates = new DataExtraction();
 		cmsOfAllStates.scrapeCM();
-		// String csv = "F:\\output.csv";
-		/*
-		 * CSVWriter writer = null; try { writer = new CSVWriter(new
-		 * FileWriter(csv)); writer.writeAll(data); writer.close(); } catch
-		 * (IOException e) { }
-		 */
 	}
 
 	public void scrapeCM() {
 		try {
-			Document html = Jsoup.connect("http://en.wikipedia.org/wiki/List_of_Chief_Ministers_of_Goa").get();
+			String state = "Bihar";
+			Document html = Jsoup.connect("http://en.wikipedia.org/wiki/List_of_Chief_Ministers_of_" + state).get();
 			Element table = html.select("table[class=wikitable]").last();
+			if (table == null) {
+				table = html.select("table[class=wikitable sortable]").last();
+			}
 			Elements rows = table.select("tr:gt(0)");
 
-			for (Element row : rows) {
-				Elements tds = row.select("td");
-				List<String> list = new ArrayList<String>();
-				for (Element td : tds) {
-					String regexStr = td.text();
-					// adding name and polictical party name
-					if (regexStr.matches("[a-zA-Z].*")) {
-						list.add(td.text());
-					}
-					// adding start and end date
-					if (regexStr.matches("[0-9].* [a-zA-Z].* [0-9].*")) {
-						list.add(td.text());
-					}
-				}
-				String[] array = list.toArray(new String[list.size()]);
-				data.add(array);
-				System.out.println(tds.toString());
-			}
+			FileWriter writer;
+			writer = new FileWriter(state + ".csv");
 
+			String name = "";
+			for (Element row : rows) {
+				int numcol = 1;
+				String regexStr;
+
+				Elements tds = row.select("td");
+				for (Element td : tds) {
+					switch (numcol) {
+					case 1:
+						regexStr = td.text().replace(",", " ");
+						if (regexStr.matches("([0-9].*)([a-zA-Z].*)([0-9].*)[ - ].*")) {
+							writer.append(name);
+							writer.append(',');
+							String[] datesplit = td.text().toString().split(" ");
+							writer.append(datesplit[0] + " " + datesplit[1] + " " + datesplit[2]);
+							writer.append(',');
+							writer.append(datesplit[4] + " " + datesplit[5] + " " + datesplit[6]);
+							writer.append(',');
+							numcol++;
+							numcol++;
+							numcol++;
+						} else if (regexStr.matches("([0-9].*)([a-zA-Z].*)([0-9].*)")) {
+							writer.append(name);
+							writer.append(',');
+							writer.append(td.text());
+							writer.append(',');
+							numcol++;
+							numcol++;
+						}
+						break;
+					case 2: {
+						if (td.text().toLowerCase().contains("president's rule")) {
+							numcol = 5;
+						} else {
+							name = td.text().replace("[", "").replaceAll("\\d*", "").replace("]", "");
+							writer.append(name);
+							writer.append(',');
+						}
+						break;
+
+					}
+					case 3: {
+						regexStr = td.text().replace(",", " ");
+						if (regexStr.matches("([0-9].*)([a-zA-Z].*)([0-9].*)[ - ].*")) {
+							String[] datesplit = td.text().toString().split(" ");
+							writer.append(datesplit[0] + " " + datesplit[1] + " " + datesplit[2]);
+							writer.append(',');
+							writer.append(datesplit[4] + " " + datesplit[5] + " " + datesplit[6]);
+							writer.append(',');
+							numcol++;
+							numcol++;
+						} else {
+							Element temp = td.select("img").first();
+
+							if (temp == null) {
+								if (!td.text().isEmpty()) {
+									writer.append(td.text());
+									writer.append(',');
+								} else {
+									numcol--;
+								}
+							} else {
+								numcol--;
+							}
+						}
+
+						break;
+					}
+					case 4: {
+						writer.append(td.text());
+						writer.append(',');
+					}
+
+					}
+					if (numcol == 5)
+						break;
+					numcol++;
+
+				}
+				writer.append('\n');
+
+			}
+			writer.close();
+			System.out.println("done");
 		} catch (Exception e) {
 			System.out.println("scrapeCM Function : " + e.toString());
 		}
