@@ -6,38 +6,57 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.List;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+import org.openrdf.repository.RepositoryException;
+
+import formatconverter.formatconverter;
 
 public class DataExtraction {
+	static FileWriter writer;
+	
 	static List<String[]> data = new ArrayList<String[]>();
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws RepositoryException, IOException {
 
 		// formatconverter inputFile = new formatconverter();
 		// inputFile.loadFile(new Frame(),
 		// "Choose a CSV File","/Users/ameyakoshti/Downloads", "*.csv");
 
 		DataExtraction cmsOfAllStates = new DataExtraction();
-		cmsOfAllStates.scrapeCM();
+		List<String> state=formatconverter.getStateName();
+		Iterator<String> i=state.iterator();
+
+		writer = new FileWriter("cm.csv");
+		writer.append("CMName, JoinDate, LeftDate, State");
+		
+		while(i.hasNext())
+		{
+		writer.append("\n");
+		cmsOfAllStates.scrapeCM(i.next());
+		}
+		writer.close();
 	}
 
-	public void scrapeCM() {
+	
+	public void scrapeCM(String state) {
 		try {
-			String state = "Bihar";
-			Document html = Jsoup.connect("http://en.wikipedia.org/wiki/List_of_Chief_Ministers_of_" + state).get();
+			System.out.println(state);
+			if(state.equals("Punjab"))
+				state="Punjab_(India)";
+			String link="http://en.wikipedia.org/wiki/List_of_Chief_Ministers_of_" + state;
+			System.out.println(link);
+			Document html = Jsoup.connect(link).get();
 			Element table = html.select("table[class=wikitable]").last();
 			if (table == null) {
 				table = html.select("table[class=wikitable sortable]").last();
 			}
 			Elements rows = table.select("tr:gt(0)");
-
-			FileWriter writer;
-			writer = new FileWriter(state + ".csv");
 
 			String name = "";
 			for (Element row : rows) {
@@ -68,6 +87,124 @@ public class DataExtraction {
 							numcol++;
 							numcol++;
 						}
+						break;
+					case 2: {
+						if (td.text().toLowerCase().contains("president's rule")) {
+							numcol = 5;
+						} else {
+							name = td.text().replace(",", " ").replace("[", "").replaceAll("\\d*", "").replace("]", "");
+							writer.append(name);
+							writer.append(',');
+						}
+						break;
+
+					}
+					case 3: {
+						regexStr = td.text().replace(",", " ");
+						if (regexStr.matches("([0-9].*)([a-zA-Z].*)([0-9].*)[ - ].*")) {
+							String[] datesplit = td.text().toString().replace(",", " ").split(" ");
+							writer.append(datesplit[0] + " " + datesplit[1] + " " + datesplit[2]);
+							writer.append(',');
+							writer.append(datesplit[4] + " " + datesplit[5] + " " + datesplit[6]);
+							writer.append(',');
+							numcol++;
+							numcol++;
+							writer.append(state);
+							writer.append(',');	
+						} else {
+							Element temp = td.select("img").first();
+
+							if (temp == null) {
+								if (!td.text().isEmpty()) {
+									writer.append(td.text());
+									writer.append(',');
+								} else {
+									numcol--;
+								}
+							} else {
+								numcol--;
+							}
+						}
+
+						break;
+					}
+					case 4: {
+						writer.append(td.text());
+						writer.append(',');
+						writer.append(state);
+						writer.append(',');	
+						formatconverter.getCMDetails(name, writer);
+						
+					}
+
+					}
+					if (numcol == 5)
+						break;
+					numcol++;
+
+				}
+				
+				writer.append('\n');
+
+			}
+			System.out.println("done");
+		} catch (Exception e) {
+			System.out.println("scrapeCM Function : " + e.toString());
+		}
+	}
+	
+	
+	
+	
+	
+	
+	public void scrapeCM1(String state) {
+		try {
+			System.out.println(state);
+			if(state.equals("Punjab"))
+				state="Punjab_(India)";
+			String link="http://en.wikipedia.org/wiki/List_of_Chief_Ministers_of_" + state;
+			System.out.println(link);
+			Document html = Jsoup.connect(link).get();
+			Element table = html.select("table[class=wikitable]").last();
+			if (table == null) {
+				table = html.select("table[class=wikitable sortable]").last();
+			}
+			Elements rows = table.select("tr:gt(0)");
+
+			
+			String name = "";
+			for (Element row : rows) {
+				int numcol = 1;
+				String regexStr;
+				
+				Elements tds = row.select("td");
+				for (Element td : tds) {
+					
+					switch (numcol) {
+					case 1:
+						regexStr = td.text().replace(",", " ");
+						if (regexStr.matches("([0-9].*)([a-zA-Z].*)([0-9].*)[ - ].*")) {
+							writer.append(name);
+							writer.append(',');
+							String[] datesplit = td.text().toString().split(" ");
+							writer.append(datesplit[0] + " " + datesplit[1] + " " + datesplit[2]);
+							writer.append(',');
+							writer.append(datesplit[4] + " " + datesplit[5] + " " + datesplit[6]);
+							writer.append(',');
+							numcol++;
+							numcol++;
+							numcol++;
+						} else if (regexStr.matches("([0-9].*)([a-zA-Z].*)([0-9].*)")) {
+							writer.append(name);
+							writer.append(',');
+							writer.append(td.text());
+							writer.append(',');
+							numcol++;
+							numcol++;
+						}
+						else
+							
 						break;
 					case 2: {
 						if (td.text().toLowerCase().contains("president's rule")) {
@@ -110,18 +247,21 @@ public class DataExtraction {
 					case 4: {
 						writer.append(td.text());
 						writer.append(',');
+						writer.append(state+" , ");
+							
 					}
-
+					
 					}
 					if (numcol == 5)
 						break;
 					numcol++;
+					
 
 				}
 				writer.append('\n');
 
 			}
-			writer.close();
+	
 			System.out.println("done");
 		} catch (Exception e) {
 			System.out.println("scrapeCM Function : " + e.toString());
