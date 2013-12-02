@@ -86,7 +86,7 @@ h2.ss-subtitle:after{
     clear: both;
     float: left;
     position: relative;
-    padding: 30px 0;
+    padding: 0 0;
 }
 .ss-row-lesspadding{
     width: 100%;

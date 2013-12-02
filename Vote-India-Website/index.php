@@ -13,46 +13,41 @@
 		<script src="js/bootstrap.min.js"></script>
 	</head>
 
-	<body>
+	<body style="background-color:#1B7CCD">
 		<div id="map" class="map"></div>
 		<script>
 			$(function() {
-				
-				/*
-				var palette = ['#F9573B', '#F9573B'];
-				generateColors = function() {
-					var colors = {}, key;
-
-					for (key in map.regions) {
-						colors[key] = palette[Math.floor(Math.random() * palette.length)];
-					}
-					return colors;
-				}, map;
-
-				map = new jvm.WorldMap({
-					map : 'in_mill_en',
-					container : $('#map'),
-					series : {
-						regions : [{
-							attribute : 'fill'
-						}]
-					}
-				});
-				map.series.regions[0].setValues(generateColors());
-				$('#map').click(function(e) {
-					e.preventDefault();
-					$("#stateInfo").modal('show');
-				});*/
-
-				
 				$('#map').vectorMap({
 					map : 'in_mill_en',
-					//backgroundColor : '#F9573B',
+					backgroundColor : '#1B7CCD',
 					hoverOpacity : 0.7,
 					hoverColor : '#ec4924',
 					onRegionClick : function(event, code) {
-						var linkProcess = 'gaurang.html' + "?state=" + code;
+						var stateName = "?state=" + code;
+						$('#link').attr('href', $('#link').attr('href') + stateName);
 						$("#stateInfo").modal('show');
+						$("#voteIndiaState").html(code);
+						
+						$.ajax({
+							url : '#',
+							data : {'state' : code},
+							type : 'post',
+							async: false,
+							success: function(){
+								var JSONData = '{ "Capital": "Bangalore", "Coordinate": "10 20 30 40", "Population": "10000", "Image": "http://www.mapsofindia.com/maps/karnataka/karnataka-map.jpg", "Desc": "Karnataka /k?rn??t?k?/ is a state in South West India. It was created on 1 November 1956, with the passage of the States Reorganisation Act. Originally known as the State of Mysore, it was renamed Karnataka in 1973." }';
+								var obj = jQuery.parseJSON(JSONData);								
+								
+								var stateDescription = obj.Desc;
+								var stateURI = '';
+								var stateImage = '<img height="200px" width="200px" src="'+obj.Image+'"></img>';
+								var stateCapital = 'Capital: '+ obj.Capital;
+								var statePopulation = obj.Population;
+								
+								$("#stateTitle").html(stateCapital);
+								$("#stateDescription").html("<div style=\"float:left;\"><p> "+stateImage+"</p></div><div style=\"margin-left:5px;width:250px;float:left;\"><p style=\"text-align:justify;margin-left:5px \"> "+stateDescription+" </p></br><p>Population :"+statePopulation+"</p></div>");								
+							}
+						});
+						
 					}
 				});
 			});
@@ -65,17 +60,17 @@
 						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">
 							&times;
 						</button>
-						<h4 class="modal-title">State Name</h4>
+						<h4 id="voteIndiaState" class="modal-title"></h4>
 					</div>
 					<div class="modal-body">
 						<div id="state-title" style="text-align: center;">
-							<h5>Some title</h5>
+							<h5 id="stateTitle">Sample Title</h5>
 						</div>
 						<div id="state-description" style="margin: 30px; text-align: center;">
-
+							<p id="stateDescription"> Sample Description </p>
 						</div>
-						<div id="state-trailer"  style="text-align: center; margin: 30px 0px 10px 0px;">
-							<a href="/vote-india/timeline.php"> Click here for timeline</a>
+						<div id="state-trailer" style="clear:both; padding-top: 20px; text-align: center; margin: 30px 0px 10px 0px;">
+							<a id="link" href="/vote-india-website/timeline.php"> Click here for timeline</a>
 						</div>
 					</div>
 				</div>

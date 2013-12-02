@@ -5,11 +5,13 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
+import java.util.Map.Entry;
 
 import org.json.JSONException;
 import org.json.JSONObject;
 import org.json.XML;
 import org.openrdf.OpenRDFException;
+import org.openrdf.model.Value;
 import org.openrdf.query.BindingSet;
 import org.openrdf.query.QueryLanguage;
 import org.openrdf.query.TupleQuery;
@@ -30,44 +32,63 @@ import com.hp.hpl.jena.query.ResultSet;
 public class VoteIndia {
 	private static HashMap<String, String> politicalParties;
 	private static List<String> allFactors;
+	private static ArrayList<ChiefMinisters> listOfCMs;
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws RepositoryException {
 
 		// Initial core-data
 		initialize();
 
-		// createRepository();
+		int performOperationNo = 3;
 
-		File repoLocation = new File("548");
-		Repository myRepository = new SailRepository(new NativeStore(
-				repoLocation));
-		try {
-			myRepository.initialize();
-		} catch (RepositoryException e) {
-			e.printStackTrace();
+		switch (performOperationNo) {
+		case 1: {
+			createRepository();
+			break;
+		}
+		case 2: {
+			File repoLocation = new File("548");
+			Repository myRepository = new SailRepository(new NativeStore(repoLocation));
+			try {
+				myRepository.initialize();
+			} catch (RepositoryException e) {
+				e.printStackTrace();
+			}
+
+			String state = "Uttar_Pradesh";
+
+			String xmlData = getAllData(myRepository, state);
+
+			JSONObject xmlJSONObj;
+			String JSONData;
+
+			try {
+				xmlJSONObj = XML.toJSONObject(xmlData);
+				JSONData = xmlJSONObj.toString();
+			} catch (JSONException e) {
+				e.printStackTrace();
+				JSONData = "error";
+			}
+
+			System.out.println(JSONData);
+
+			/*
+			 * try { myRepository.shutDown(); } catch (RepositoryException e) {
+			 * e.printStackTrace(); }
+			 */
+
+			break;
+		}
+		case 3: {
+			getStateJSON("Maharashtra");
+			break;
+		}
+		case 4: {
+			break;
 		}
 
-		String state = "Nagaland";
-
-		String xmlData = getAllData(myRepository, state);
-
-		JSONObject xmlJSONObj;
-		String JSONData;
-
-		try {
-			xmlJSONObj = XML.toJSONObject(xmlData);
-			JSONData = xmlJSONObj.toString();
-		} catch (JSONException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			JSONData = "error";
 		}
 
-		System.out.println(JSONData);
-		/*
-		 * try { myRepository.shutDown(); } catch (RepositoryException e) {
-		 * e.printStackTrace(); }
-		 */
 	}
 
 	public static void initialize() {
@@ -103,11 +124,11 @@ public class VoteIndia {
 		File RDFFactor6 = new File("WSP1VW6.ttl");
 		File RDFFactor7 = new File("WSP1VW7.ttl");
 		File RDFFactor8 = new File("WSP1VW8.ttl");
+		File RDFFactor9 = new File("WSP1VW9.ttl");
 
 		String baseURI = "548";
 
-		Repository newLocalRepository = new SailRepository(new NativeStore(
-				repoLocation));
+		Repository newLocalRepository = new SailRepository(new NativeStore(repoLocation));
 
 		try {
 			newLocalRepository.initialize();
@@ -121,10 +142,13 @@ public class VoteIndia {
 				con.add(RDFFactor6, baseURI, RDFFormat.TURTLE);
 				con.add(RDFFactor7, baseURI, RDFFormat.TURTLE);
 				con.add(RDFFactor8, baseURI, RDFFormat.TURTLE);
+				con.add(RDFFactor9, baseURI, RDFFormat.TURTLE);
 
 			} catch (RDFParseException e) {
 				e.printStackTrace();
+				System.out.println(e);
 			} catch (IOException e) {
+				System.out.println(e);
 				e.printStackTrace();
 			}
 
@@ -144,16 +168,19 @@ public class VoteIndia {
 
 		// Make calls based on all the years
 
-		Boolean onlyOnce = false;
+		getCMFromLocalStore(localRepository, state);
+
 		for (year = 2013; year >= 2000; year--) {
 			System.out.println("Year:" + year);
 			XML += "<year yearvalue=\"" + year + "\">";
 			// Get the list of CMs for a particular year
 			System.out.println("Getting CMs...");
-			List<String> CM = getCMFromDBpedia(year, state);
+
 			XML += "<cms>";
-			for (int iterateCM = 0; iterateCM < CM.size(); iterateCM++) {
-				XML += "<cm cmname=\"" + CM.get(iterateCM) + "\"/>";
+			for (int cmIndex = 0; cmIndex < listOfCMs.size(); cmIndex++) {
+				if (Integer.parseInt(listOfCMs.get(cmIndex).startYear) <= year && year <= Integer.parseInt(listOfCMs.get(cmIndex).endYear)) {
+					XML += "<cm cmname=\"" + listOfCMs.get(cmIndex).cmName + "\"/>";
+				}
 			}
 			XML += "</cms>";
 
@@ -161,17 +188,14 @@ public class VoteIndia {
 			// Get the values of all the factors based on the year
 			XML += "<factors>";
 			for (int factorIndex = 0; factorIndex < allFactors.size(); factorIndex++) {
-				value = localDatabase(localRepository, state, year,
-						allFactors.get(factorIndex));
+				value = coreDatabase(localRepository, state, year, allFactors.get(factorIndex));
 				factorValue.put(allFactors.get(factorIndex), value);
 			}
 
-			Iterator it = factorValue.entrySet().iterator();
+			Iterator<Entry<String, String>> it = factorValue.entrySet().iterator();
 			while (it.hasNext()) {
-				Map.Entry pairsFactorValue = (Map.Entry) it.next();
-				XML += "<factor factorname=\"" + pairsFactorValue.getKey()
-						+ "\" factorvalue=\"" + pairsFactorValue.getValue()
-						+ "\"/>";
+				Map.Entry<String, String> pairsFactorValue = (Map.Entry<String, String>) it.next();
+				XML += "<factor factorname=\"" + pairsFactorValue.getKey() + "\" factorvalue=\"" + pairsFactorValue.getValue() + "\"/>";
 			}
 			XML += "</factors>";
 			XML += "</year>";
@@ -195,40 +219,20 @@ public class VoteIndia {
 	public static List<String> getCMFromDBpedia(int year, String state) {
 		String service = "http://dbpedia.org/sparql";
 
-		String queryStartDate = "PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>"
-				+ "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>"
-				+ "PREFIX dbpedia: <http://dbpedia.org/resource/>"
-				+ "PREFIX dcterms: <http://purl.org/dc/terms/>"
-				+ "PREFIX dbpedia-owl: <http://dbpedia.org/ontology/>"
-				+ "PREFIX category: <http://dbpedia.org/resource/Category:>"
-				+ "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>"
-				+ "SELECT DISTINCT ?URIOfCM (GROUP_CONCAT(STR(?startyear); separator = \";\") as ?startyear) WHERE {"
-				+ "?URIOfCM dcterms:subject category:Chief_Ministers_of_"
-				+ state
-				+ "."
-				+ "?URIOfCM dbpedia-owl:activeYearsStartDate ?startyear."
-				+ "FILTER(xsd:date(?startyear) > \"1990-01-01\"^^xsd:date)"
+		String queryStartDate = "PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>" + "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>" + "PREFIX dbpedia: <http://dbpedia.org/resource/>"
+				+ "PREFIX dcterms: <http://purl.org/dc/terms/>" + "PREFIX dbpedia-owl: <http://dbpedia.org/ontology/>" + "PREFIX category: <http://dbpedia.org/resource/Category:>"
+				+ "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>" + "SELECT DISTINCT ?URIOfCM (GROUP_CONCAT(STR(?startyear); separator = \";\") as ?startyear) WHERE {"
+				+ "?URIOfCM dcterms:subject category:Chief_Ministers_of_" + state + "." + "?URIOfCM dbpedia-owl:activeYearsStartDate ?startyear."
+				+ "FILTER(xsd:date(?startyear) > \"1990-01-01\"^^xsd:date)" + "} GROUP BY ?URIOfCM";
+
+		String queryEndDate = "PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>" + "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>" + "PREFIX dbpedia: <http://dbpedia.org/resource/>"
+				+ "PREFIX dcterms: <http://purl.org/dc/terms/>" + "PREFIX dbpedia-owl: <http://dbpedia.org/ontology/>" + "PREFIX category: <http://dbpedia.org/resource/Category:>"
+				+ "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>" + "SELECT DISTINCT ?URIOfCM (GROUP_CONCAT(STR(?endyear); separator = \";\") as ?endyear) WHERE {"
+				+ "?URIOfCM dcterms:subject category:Chief_Ministers_of_" + state + "." + "?URIOfCM dbpedia-owl:activeYearsEndDate ?endyear." + "FILTER(xsd:date(?endyear) > \"1990-01-01\"^^xsd:date)"
 				+ "} GROUP BY ?URIOfCM";
 
-		String queryEndDate = "PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>"
-				+ "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>"
-				+ "PREFIX dbpedia: <http://dbpedia.org/resource/>"
-				+ "PREFIX dcterms: <http://purl.org/dc/terms/>"
-				+ "PREFIX dbpedia-owl: <http://dbpedia.org/ontology/>"
-				+ "PREFIX category: <http://dbpedia.org/resource/Category:>"
-				+ "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>"
-				+ "SELECT DISTINCT ?URIOfCM (GROUP_CONCAT(STR(?endyear); separator = \";\") as ?endyear) WHERE {"
-				+ "?URIOfCM dcterms:subject category:Chief_Ministers_of_"
-				+ state
-				+ "."
-				+ "?URIOfCM dbpedia-owl:activeYearsEndDate ?endyear."
-				+ "FILTER(xsd:date(?endyear) > \"1990-01-01\"^^xsd:date)"
-				+ "} GROUP BY ?URIOfCM";
-
-		QueryExecution qeStartDate = QueryExecutionFactory.sparqlService(
-				service, queryStartDate);
-		QueryExecution qeEndDate = QueryExecutionFactory.sparqlService(service,
-				queryEndDate);
+		QueryExecution qeStartDate = QueryExecutionFactory.sparqlService(service, queryStartDate);
+		QueryExecution qeEndDate = QueryExecutionFactory.sparqlService(service, queryEndDate);
 
 		QuerySolution solStartDate;
 		QuerySolution solEndDate;
@@ -246,28 +250,24 @@ public class VoteIndia {
 			// Create hashmap for the CM and start date
 			while (resultStartDate.hasNext()) {
 				solStartDate = (QuerySolution) resultStartDate.next();
-				hmStartDate.put(solStartDate.get("?URIOfCM").toString(),
-						solStartDate.get("?startyear").toString());
+				hmStartDate.put(solStartDate.get("?URIOfCM").toString(), solStartDate.get("?startyear").toString());
 			}
 
 			// Create hashmap for the CM and end date
 			while (resultEndDate.hasNext()) {
 				solEndDate = (QuerySolution) resultEndDate.next();
-				hmEndDate.put(solEndDate.get("?URIOfCM").toString(), solEndDate
-						.get("?endyear").toString());
+				hmEndDate.put(solEndDate.get("?URIOfCM").toString(), solEndDate.get("?endyear").toString());
 			}
 
-			Iterator it = hmStartDate.entrySet().iterator();
+			Iterator<Entry<String, String>> it = hmStartDate.entrySet().iterator();
 			while (it.hasNext()) {
-				Map.Entry pairsStartYear = (Map.Entry) it.next();
+				Map.Entry<String, String> pairsStartYear = (Map.Entry<String, String>) it.next();
 				// System.out.println(pairs.getKey() + " = " +
 				// pairs.getValue());
 
 				if (hmEndDate.containsKey(pairsStartYear.getKey())) {
-					String[] startDates = pairsStartYear.getValue().toString()
-							.split(";");
-					String[] endDates = hmEndDate.get(pairsStartYear.getKey())
-							.toString().split(";");
+					String[] startDates = pairsStartYear.getValue().toString().split(";");
+					String[] endDates = hmEndDate.get(pairsStartYear.getKey()).toString().split(";");
 
 					for (int i = 0; i < startDates.length; i++) {
 						String[] startYear = startDates[i].split("-");
@@ -279,8 +279,7 @@ public class VoteIndia {
 							endYear = "2013-01-01".split("-");
 						}
 
-						if (Integer.parseInt(startYear[0]) <= year
-								&& year <= Integer.parseInt(endYear[0])) {
+						if (Integer.parseInt(startYear[0]) <= year && year <= Integer.parseInt(endYear[0])) {
 							// CM Found!!
 							CM.add(pairsStartYear.getKey().toString());
 						}
@@ -298,27 +297,94 @@ public class VoteIndia {
 		return CM;
 	}
 
-	public static String localDatabase(Repository myRepository, String state,
-			int year, String factor) {
+	public static void getCMFromLocalStore(Repository myRepository, String state) {
+
+		ChiefMinisters cmObj;
+		listOfCMs = new ArrayList<ChiefMinisters>();
+
+		try {
+			RepositoryConnection con = myRepository.getConnection();
+
+			try {
+				String queryStartDate = "PREFIX ex:<http://example.com/>" + "PREFIX cm:<http://example.com/CM/>" + "PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>"
+						+ "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>" + "PREFIX foaf: <http://xmlns.com/foaf/0.1/>" + "SELECT ?cmname ?startyear where {" + "?cm rdf:type ex:CM."
+						+ "?cm ex:state \"" + state + "\"." + "?cm foaf:name ?cmname." + "?cm cm:joinOffice ?startyear}";
+
+				String queryEndDate = "PREFIX ex:<http://example.com/>" + "PREFIX cm:<http://example.com/CM/>" + "PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>"
+						+ "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>" + "PREFIX foaf: <http://xmlns.com/foaf/0.1/>" + "SELECT ?cmname ?endyear where {" + "?cm rdf:type ex:CM."
+						+ "?cm ex:state \"" + state + "\"." + "?cm foaf:name ?cmname." + "?cm cm:endOffice ?endyear }";
+
+				TupleQuery tupleQueryStartDate = con.prepareTupleQuery(QueryLanguage.SPARQL, queryStartDate);
+				TupleQueryResult resultStartDate = tupleQueryStartDate.evaluate();
+
+				TupleQuery tupleQueryEndDate = con.prepareTupleQuery(QueryLanguage.SPARQL, queryEndDate);
+				TupleQueryResult resultEndDate = tupleQueryEndDate.evaluate();
+
+				try {
+
+					List<String> bindingNamesStartDate = resultStartDate.getBindingNames();
+					List<String> bindingNamesEndDate = resultEndDate.getBindingNames();
+					while (resultStartDate.hasNext()) {
+
+						BindingSet bsStartDate = resultStartDate.next();
+						BindingSet bsEndDate = resultEndDate.next();
+
+						cmObj = new ChiefMinisters();
+						cmObj.cmName = bsStartDate.getValue(bindingNamesStartDate.get(0)).toString().replace("\"", "");
+						cmObj.startYear = bsStartDate.getValue(bindingNamesStartDate.get(1)).toString().replace("\"", "");
+						cmObj.startYear = cmObj.startYear.split("-")[2];
+						if (!bsEndDate.getValue(bindingNamesEndDate.get(1)).toString().replace("\"", "").matches(".*\\d.*")) {
+							cmObj.endYear = "2013";
+						} else {
+							cmObj.endYear = bsEndDate.getValue(bindingNamesEndDate.get(1)).toString().replace("\"", "");
+							cmObj.endYear = cmObj.endYear.split("-")[2];
+						}
+						cmObj.imageURL = "";
+
+						listOfCMs.add(cmObj);
+
+					}
+
+				} finally {
+					printlistOfCMs();
+					resultStartDate.close();
+					resultEndDate.close();
+				}
+			} finally {
+				con.close();
+			}
+		} catch (OpenRDFException e) {
+			e.printStackTrace();
+		} catch (Exception e) {
+			e.printStackTrace();
+			System.out.println(e.toString());
+		}
+	}
+
+	public static void printlistOfCMs() {
+		for (ChiefMinisters cm : listOfCMs) {
+			System.out.println(cm.cmName);
+			System.out.println(cm.startYear);
+			System.out.println(cm.endYear);
+		}
+	}
+
+	public static String coreDatabase(Repository myRepository, String state, int year, String factor) {
 		String factorValue = "NA";
 		try {
 			RepositoryConnection con = myRepository.getConnection();
 
 			try {
-				String queryString = "PREFIX ex:<http://example.com/> "
-						+ "select * where{" + "?x ex:state \"" + state + "\"."
-						+ "?x ex:factor \"" + factor + "\"." + "?x ex:year \""
-						+ year + "\"." + "?x ex:value ?y." + "}";
-				TupleQuery tupleQuery = con.prepareTupleQuery(
-						QueryLanguage.SPARQL, queryString);
+				String queryString = "PREFIX ex:<http://example.com/> " + "select * where{" + "?x ex:state \"" + state + "\"." + "?x ex:factor \"" + factor + "\"." + "?x ex:year \"" + year + "\"."
+						+ "?x ex:value ?y." + "}";
+				TupleQuery tupleQuery = con.prepareTupleQuery(QueryLanguage.SPARQL, queryString);
 				TupleQueryResult result = tupleQuery.evaluate();
 
 				try {
 					List<String> bindingNames = result.getBindingNames();
 					while (result.hasNext()) {
 						BindingSet bindingSet = result.next();
-						factorValue = bindingSet.getValue(bindingNames.get(1))
-								.toString();
+						factorValue = bindingSet.getValue(bindingNames.get(1)).toString();
 					}
 				} finally {
 					result.close();
@@ -334,6 +400,93 @@ public class VoteIndia {
 		} else {
 			return factorValue.replace("\"", "");
 		}
+	}
+
+	public static String getStateJSON(String state) throws RepositoryException {
+		String XML = "";
+		File dataDir = new File("548");
+		String newState = state.replace(" ", "_");
+		if (newState.contains("&"))
+			newState = newState.replace("&", "and");
+
+		newState = "<http://dbpedia.org/resource/" + newState + ">";
+		System.out.println(newState);
+		Repository Repo = new SailRepository(new NativeStore(dataDir));
+		Repo.initialize();
+		XML = XML + "<State>";
+		try {
+			RepositoryConnection con = Repo.getConnection();
+
+			try {
+				String queryString = "prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>" + "prefix foaf: <http://xmlns.com/foaf/0.1/>" + "prefix ex: <http://example.com/>"
+						+ "prefix purl: <http://purl.org/dc/elements/1.1/> " + "prefix purl2: <http://purl.org/ontology/places#>" + "prefix oecc: <http://www.oegov.org/core/owl/cc#>"
+
+						+ "select ?coor ?pop ?desc ?url ?capital ?img where"
+
+						+ "{ " + newState + " purl:description ?desc. " + newState + " ex:value ?pop. " + newState + " purl2:point_on_map ?coor. " + newState + " oecc:url ?url. " + newState
+						+ " foaf:member ?capital. " + newState + " oecc:image ?img. " + "}";
+
+				System.out.println(queryString);
+				TupleQuery tupleQuery = con.prepareTupleQuery(QueryLanguage.SPARQL, queryString);
+				TupleQueryResult result = tupleQuery.evaluate();
+
+				try {
+					while (result.hasNext()) {
+						BindingSet bindingSet = result.next();
+						Value valueOfcoor = bindingSet.getValue("coor");
+						Value valueOfcapital = bindingSet.getValue("capital");
+						Value valueOfpop = bindingSet.getValue("pop");
+						Value valueOfdesc = bindingSet.getValue("desc");
+						Value valueOfurl = bindingSet.getValue("url");
+						Value valueOfimg = bindingSet.getValue("img");
+
+						String coor = valueOfcoor.stringValue();
+						String capital = valueOfcapital.stringValue();
+						String pop = valueOfpop.stringValue();
+						String url = valueOfurl.stringValue();
+						String img = valueOfimg.stringValue();
+						String desc = valueOfdesc.stringValue().replace("&", "");
+
+						XML = XML + "<Capital>" + capital + "</Capital>";
+						XML = XML + "<Coordinate>" + coor + "</Coordinate>";
+						XML = XML + "<Population>" + pop + "</Population>";
+						XML = XML + "<Url>" + url + "</Url>";
+						XML = XML + "<Image>" + img + "</Image>";
+						XML = XML + "<Desc>" + desc + "</Desc>";
+
+					}
+					XML = XML + "</State>";
+					System.out.println(XML);
+					String State_Json = XMLtoJSON(XML);
+					System.out.println(State_Json);
+				} finally {
+					result.close();
+				}
+			} finally {
+				con.close();
+			}
+		} catch (OpenRDFException e) {
+			// handle exception
+		}
+		return null;
+	}
+
+	public static String XMLtoJSON(String xmlData) {
+
+		JSONObject xmlJSONObj;
+		String JSONData;
+
+		try {
+			xmlJSONObj = XML.toJSONObject(xmlData);
+			JSONData = xmlJSONObj.toString();
+		} catch (JSONException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+			JSONData = "error";
+		}
+
+		// System.out.println(JSONData);
+		return JSONData;
 	}
 
 }

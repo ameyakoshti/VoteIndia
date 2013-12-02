@@ -79,5 +79,6 @@
 	<classpathentry kind="lib" path="/Users/ameyakoshti/Documents/workspace/Vote-India/Vote-India-Webservice/sesame-lib/spring-webmvc-2.5.6.jar"/>
 	<classpathentry kind="lib" path="/Users/ameyakoshti/Documents/workspace/Vote-India/Vote-India-Webservice/sesame-lib/standard-1.1.2.jar"/>
 	<classpathentry kind="lib" path="/Users/ameyakoshti/Documents/workspace/Vote-India/Vote-India-Webservice/sesame-lib/xerces.jar"/>
+	<classpathentry kind="lib" path="/Users/ameyakoshti/Documents/workspace/Vote-India/Vote-India-Webservice/sesame-lib/guava-15.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
