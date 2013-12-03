@@ -8,7 +8,7 @@
         <meta name="description" content="vote india website for people to see the progress of indian government" />
         <meta name="keywords" content="rdf, semantic, india, government, timeline" />
         <link rel="shortcut icon" href="../favicon.ico"> 
-        <link rel="stylesheet" type="text/css" href="css/demo.css" />
+        <link rel="stylesheet" type="text/css" href="css/timeline.css" />
         <link rel="stylesheet" type="text/css" href="css/vote-india.css"/>
         <link rel="stylesheet" type="text/css" href="css/style.css" />
         <link href='http://fonts.googleapis.com/css?family=Kelly+Slab' rel='stylesheet' type='text/css' />
@@ -42,12 +42,12 @@
                 </a>
                 <span class="right">
                     <a href="#">
-                        <!--<strong> Text on right side</strong>-->
+                      
                     </a>
                 </span>
                 <div class="clr"></div>
             </div>
-			
+			</br></br></br></br></br>
 			<h1><?php echo $state;?></h1>
 			 </br>
 			<div class="statedescription">
@@ -58,12 +58,8 @@
 	            </p>
 			</div>
 			
-            </br></br></br></br></br></br>
-                        
-            
             <h2 class="ss-subtitle"><?php echo $state;?> Timeline</h2>
 			<div id="ss-links" class="ss-links">
-				<a href="#2013">2013</a>
 				<a href="#2012">2012</a>
 				<a href="#2011">2011</a>
 				<a href="#2010">2010</a>
@@ -76,14 +72,14 @@
 				<a href="#2003">2003</a>
 				<a href="#2002">2002</a>
 				<a href="#2001">2001</a>
-				<a href="#2000">2000</a>				
+				<!--<a href="#2000">2000</a>-->				
 			</div>
 			
             <div id="ss-container" class="ss-container">
                 <?php
                 
                 	$obj = json_decode($JSONData,true);
-					
+					$imageCount = 0;
 					foreach($obj['state']['year']as $year) {
 						//echo $year['yearvalue'];
 						foreach($year['factors']as $factor) {
@@ -95,8 +91,9 @@
 								$serviceValue = $factor[5]['factorvalue'];
 								$agriculturalValue = $factor[6]['factorvalue'];
 						}
+						$imageCount++;
 						$year = '<div class="ss-row"> <div class="ss-left"> <h2 style="color:#49586E;" id="'.$year['yearvalue'].'">Year</h2> </div> <div class="ss-right"> <h2 style="color:#49586E;">'.$year['yearvalue'].'</h2> </div> </div>';
-						$CMonLeft = '<div class="ss-row ss-medium">' .'<div class="ss-left">' .'<a href="#" class="ss-circle ss-circle-1"></a>' .'</div>' .'<div class="ss-right">' .'<h3>' .'<a href="#">Agricultural Growth:'.$agriculturalValue.'</a>' .'</h3>' .'</div>' .'<div class="ss-right">' .'<h3>' .'<a href="#">Industrial Growth:'.$industrialValue.'</a>' .'</h3>' .'</div>' .'<div class="ss-right">' .'<h3>' .'<a href="#">Service Growth:'.$serviceValue.'</a>' .'</h3>' .'</div>' .'</div>' .'<div class="ss-row ss-medium">' .'<div class="ss-left">' .'<h3>' .'<a href="#">Female Literacy:'.$femaleLiteracyValue.'</a>' .'</h3>' .'</div>' .'<div class="ss-right">' .'<h3>' .'<a href="#">Male Literacy:'.$maleLiteracyValue.'</a>' .'</h3>' .'</div>' .'</div>' .'<div class="ss-row ss-medium">' .'<div class="ss-left">' .'<h3>' .'<a href="#">Manufacturing Growth:'.$manufacturingValue.'</a>' .'</h3>' .'</div>' .'<div class="ss-right">' .'<h3>' .'<a href="#">Mining Growth:'.$miningValue.'</a>' .'</h3>' .'</div>' .'</div>';
+						$CMonLeft = '<div class="ss-row ss-medium">' .'<div class="ss-left">' .'<a href="http://localhost:8888/vote-india-website/cm.php?name=Prithviraj_Chavan" class="ss-circle ss-circle-'.$imageCount.'"></a>' .'</div>' .'<div class="ss-right">' .'<h3>' .'<a href="#">Agricultural Growth:'.$agriculturalValue.'</a>' .'</h3>' .'</div>' .'<div class="ss-right">' .'<h3>' .'<a href="#">Industrial Growth:'.$industrialValue.'</a>' .'</h3>' .'</div>' .'<div class="ss-right">' .'<h3>' .'<a href="#">Service Growth:'.$serviceValue.'</a>' .'</h3>' .'</div>' .'</div>' .'<div class="ss-row ss-medium">' .'<div class="ss-left">' .'<h3>' .'<a href="#">Female Literacy:'.$femaleLiteracyValue.'</a>' .'</h3>' .'</div>' .'<div class="ss-right">' .'<h3>' .'<a href="#">Male Literacy:'.$maleLiteracyValue.'</a>' .'</h3>' .'</div>' .'</div>' .'<div class="ss-row ss-medium">' .'<div class="ss-left">' .'<h3>' .'<a href="#">Manufacturing Growth:'.$manufacturingValue.'</a>' .'</h3>' .'</div>' .'<div class="ss-right">' .'<h3>' .'<a href="#">Mining Growth:'.$miningValue.'</a>' .'</h3>' .'</div>' .'</div>';
 						echo $year; 
 						echo $CMonLeft;						
 					}

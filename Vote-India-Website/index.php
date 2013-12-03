@@ -5,7 +5,7 @@
 		<link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Kelly+Slab'/>
 		<link rel="stylesheet" href="css/jquery-jvectormap.css" media="screen"/>
 		<link rel="stylesheet" href="css/bootstrap.css"/>
-		<link rel="stylesheet" href="css/demo.css" />
+		<link rel="stylesheet" href="css/timeline.css" />
 
 		<script src="js/jquery.js"></script>
 		<script src="js/jquery-jvectormap-1.1.1.min.js"></script>
@@ -15,8 +15,24 @@
 
 	<body style="background-color:#1B7CCD">
 		<div id="map" class="map"></div>
+		
+		<div id="dialog" style="z-index: 10; position: absolute; right: 3px; top: 3px;border:1px solid;border-radius:10px;">
+  			<ul class="nav nav-list" style="padding:10px">
+			  <p style="color:#FFFFFF;">National Parties</p>
+			  <li><a href="http://localhost:8888/vote-india-website/party.php?party=Bharatiya_Janta_Party">Bharatiya Janta Party</a></li>
+			  <li><a href="http://localhost:8888/vote-india-website/party.php?party=Indian_National_Congress">Indian National Congress</a></li>
+			  <li><a href="http://localhost:8888/vote-india-website/party.php?party=Bahujan_Samaj_Party">Bahujan Samaj Party</a></li>
+			  <li><a href="http://localhost:8888/vote-india-website/party.php?party=Samajwadi_Party">Samajwadi Party</a></li>
+			  <li><a href="http://localhost:8888/vote-india-website/party.php?party=Samata_Party">Samata Party</a></li>
+			  <li><a href="http://localhost:8888/vote-india-website/party.php?party=Communist_Party_of_India">Communist Party of India</a></li>
+			  <li><a href="http://localhost:8888/vote-india-website/party.php?party=Rashtriya_Janata_Dal">Rashtriya Janata Dal</a></li>
+			  <li><a href="http://localhost:8888/vote-india-website/party.php?party=Shiv_Sena">Shiv Sena</a></li>
+			  <li><a href="http://localhost:8888/vote-india-website/party.php?party=Communist_Party_Marxist">Communist Party (Marxist)</a></li>
+			</ul>
+		</div>
+		
 		<script>
-			$(function() {
+			$(function() {				
 				$('#map').vectorMap({
 					map : 'in_mill_en',
 					backgroundColor : '#1B7CCD',
@@ -76,7 +92,7 @@
 				</div>
 			</div>
 		</div>
-
+		
 	</body>
 </html>
 

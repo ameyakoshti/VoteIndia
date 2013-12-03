@@ -32,7 +32,7 @@ h2.ss-subtitle:after{
 .ss-links{
 	position: fixed;
 	left: 10px;
-	top: 300px;
+	top: 30px;
 	width: 25%;
 	z-index: 100;
 }
