@@ -34,12 +34,21 @@ public class VoteIndia {
 	private static List<String> allFactors;
 	private static ArrayList<ChiefMinisters> listOfCMs;
 
+	private static HashMap<Integer, Double> industry;
+	private static HashMap<Integer, Double> female;
+	private static HashMap<Integer, Double> male;
+	private static HashMap<Integer, Double> mining;
+	private static HashMap<Integer, Double> manufacturing;
+	private static HashMap<Integer, Double> service;
+	private static HashMap<Integer, Double> agriculture;
+	private static HashMap<Integer, Double> yearBasedScore;
+
 	public static void main(String[] args) throws RepositoryException {
 
 		// Initial core-data
 		initialize();
 
-		int performOperationNo = 3;
+		int performOperationNo = 2;
 
 		switch (performOperationNo) {
 		case 1: {
@@ -55,7 +64,7 @@ public class VoteIndia {
 				e.printStackTrace();
 			}
 
-			String state = "Uttar_Pradesh";
+			String state = "Maharashtra";
 
 			String xmlData = getAllData(myRepository, state);
 
@@ -95,7 +104,7 @@ public class VoteIndia {
 		politicalParties = new HashMap<String, String>();
 		politicalParties.put("bharatiya", "Bharatiya Janta Party");
 		politicalParties.put("congress", "Indian National Congress");
-		politicalParties.put("bahujan", "Bahujan Samaj party");
+		politicalParties.put("bahujan", "Bahujan Samaj Party");
 		politicalParties.put("samajwadi", "Samajwadi Party");
 		politicalParties.put("samata", "Samata Party");
 		politicalParties.put("communist", "Communist Party of India");
@@ -116,6 +125,7 @@ public class VoteIndia {
 	public static void createRepository() {
 		File repoLocation = new File("548");
 
+		// Factors Data
 		File RDFFactor1 = new File("WSP1VW1.ttl");
 		File RDFFactor2 = new File("WSP1VW2.ttl");
 		File RDFFactor3 = new File("WSP1VW3.ttl");
@@ -124,7 +134,10 @@ public class VoteIndia {
 		File RDFFactor6 = new File("WSP1VW6.ttl");
 		File RDFFactor7 = new File("WSP1VW7.ttl");
 		File RDFFactor8 = new File("WSP1VW8.ttl");
+		// CM Data
 		File RDFFactor9 = new File("WSP1VW9.ttl");
+		// State Data
+		File RDFFactor10 = new File("WSP1VW10.ttl");
 
 		String baseURI = "548";
 
@@ -143,6 +156,7 @@ public class VoteIndia {
 				con.add(RDFFactor7, baseURI, RDFFormat.TURTLE);
 				con.add(RDFFactor8, baseURI, RDFFormat.TURTLE);
 				con.add(RDFFactor9, baseURI, RDFFormat.TURTLE);
+				con.add(RDFFactor10, baseURI, RDFFormat.TURTLE);
 
 			} catch (RDFParseException e) {
 				e.printStackTrace();
@@ -163,6 +177,15 @@ public class VoteIndia {
 
 		int year;
 		String value = "";
+		industry = new HashMap<Integer, Double>();
+		female = new HashMap<Integer, Double>();
+		male = new HashMap<Integer, Double>();
+		mining = new HashMap<Integer, Double>();
+		manufacturing = new HashMap<Integer, Double>();
+		service = new HashMap<Integer, Double>();
+		agriculture = new HashMap<Integer, Double>();
+		yearBasedScore = new HashMap<Integer, Double>();
+
 		HashMap<String, String> factorValue = new HashMap<String, String>();
 		String XML = "<state name=\"" + state + "\">";
 
@@ -170,7 +193,7 @@ public class VoteIndia {
 
 		getCMFromLocalStore(localRepository, state);
 
-		for (year = 2013; year >= 2000; year--) {
+		for (year = 2012; year >= 2000; year--) {
 			System.out.println("Year:" + year);
 			XML += "<year yearvalue=\"" + year + "\">";
 			// Get the list of CMs for a particular year
@@ -192,28 +215,249 @@ public class VoteIndia {
 				factorValue.put(allFactors.get(factorIndex), value);
 			}
 
+			// double score = 0;
+
 			Iterator<Entry<String, String>> it = factorValue.entrySet().iterator();
 			while (it.hasNext()) {
 				Map.Entry<String, String> pairsFactorValue = (Map.Entry<String, String>) it.next();
 				XML += "<factor factorname=\"" + pairsFactorValue.getKey() + "\" factorvalue=\"" + pairsFactorValue.getValue() + "\"/>";
+				switch (pairsFactorValue.getKey()) {
+				case "Industry growth": {
+					if (pairsFactorValue.getValue() != "NA") {
+						// score +=
+						// Double.parseDouble(pairsFactorValue.getValue()) * 20;
+						industry.put(year, Double.parseDouble(pairsFactorValue.getValue()));
+					}
+					break;
+				}
+				case "Female Literacy Rate": {
+					if (pairsFactorValue.getValue() != "NA") {
+						// score +=
+						// Double.parseDouble(pairsFactorValue.getValue()) * 12;
+						female.put(year, Double.parseDouble(pairsFactorValue.getValue()));
+					}
+					break;
+				}
+				case "Male Literacy Rate": {
+					if (pairsFactorValue.getValue() != "NA") {
+						// score +=
+						// Double.parseDouble(pairsFactorValue.getValue()) * 12;
+						male.put(year, Double.parseDouble(pairsFactorValue.getValue()));
+					}
+					break;
+				}
+				case "Mining and Quarrying growth": {
+					if (pairsFactorValue.getValue() != "NA") {
+						// score +=
+						// Double.parseDouble(pairsFactorValue.getValue()) * 12;
+						mining.put(year, Double.parseDouble(pairsFactorValue.getValue()));
+					}
+					break;
+				}
+				case "Manufacturing growth": {
+					if (pairsFactorValue.getValue() != "NA") {
+						// score +=
+						// Double.parseDouble(pairsFactorValue.getValue()) * 12;
+						manufacturing.put(year, Double.parseDouble(pairsFactorValue.getValue()));
+					}
+					break;
+				}
+				case "Services growth": {
+					if (pairsFactorValue.getValue() != "NA") {
+						// score +=
+						// Double.parseDouble(pairsFactorValue.getValue()) * 12;
+						service.put(year, Double.parseDouble(pairsFactorValue.getValue()));
+					}
+					break;
+				}
+				case "Agriculture and Allied growth": {
+					if (pairsFactorValue.getValue() != "NA") {
+						// score +=
+						// Double.parseDouble(pairsFactorValue.getValue()) * 20;
+						agriculture.put(year, Double.parseDouble(pairsFactorValue.getValue()));
+					}
+					break;
+				}
+				}
 			}
+
 			XML += "</factors>";
 			XML += "</year>";
 		}
+
+		generateYearWiseScore();
 
 		XML += "</state>";
 		// System.out.println(XML);
 		return XML;
 	}
 
-	public static String getStateData(String state) {
+	public static void generateYearWiseScore() {
+		Double totalGrowth = 0.0;
+		Double averageGrowth = 0.0;
+		int availableFactors = 0;
 
-		return "something";
+		// Calculate average score of each factor over all years
+		Iterator<Entry<Integer, Double>> it;
+		Map.Entry<Integer, Double> pairsYearValue;
+
+		it = industry.entrySet().iterator();
+		while (it.hasNext()) {
+			availableFactors++;
+			pairsYearValue = (Map.Entry<Integer, Double>) it.next();
+			totalGrowth += pairsYearValue.getValue();
+		}
+		averageGrowth = totalGrowth / availableFactors;
+		industry.put(9999, averageGrowth);
+
+		totalGrowth = 0.0;
+		averageGrowth = 0.0;
+		availableFactors = 0;
+		it = female.entrySet().iterator();
+		while (it.hasNext()) {
+			availableFactors++;
+			pairsYearValue = (Map.Entry<Integer, Double>) it.next();
+			totalGrowth += pairsYearValue.getValue();
+		}
+		averageGrowth = totalGrowth / availableFactors;
+		female.put(9999, averageGrowth);
+
+		totalGrowth = 0.0;
+		averageGrowth = 0.0;
+		availableFactors = 0;
+		it = male.entrySet().iterator();
+		while (it.hasNext()) {
+			availableFactors++;
+			pairsYearValue = (Map.Entry<Integer, Double>) it.next();
+			totalGrowth += pairsYearValue.getValue();
+		}
+		averageGrowth = totalGrowth / availableFactors;
+		male.put(9999, averageGrowth);
+
+		totalGrowth = 0.0;
+		averageGrowth = 0.0;
+		availableFactors = 0;
+		it = mining.entrySet().iterator();
+		while (it.hasNext()) {
+			availableFactors++;
+			pairsYearValue = (Map.Entry<Integer, Double>) it.next();
+			totalGrowth += pairsYearValue.getValue();
+		}
+		averageGrowth = totalGrowth / availableFactors;
+		mining.put(9999, averageGrowth);
+
+		totalGrowth = 0.0;
+		averageGrowth = 0.0;
+		availableFactors = 0;
+		it = manufacturing.entrySet().iterator();
+		while (it.hasNext()) {
+			availableFactors++;
+			pairsYearValue = (Map.Entry<Integer, Double>) it.next();
+			totalGrowth += pairsYearValue.getValue();
+		}
+		averageGrowth = totalGrowth / availableFactors;
+		manufacturing.put(9999, averageGrowth);
+
+		totalGrowth = 0.0;
+		averageGrowth = 0.0;
+		availableFactors = 0;
+		it = service.entrySet().iterator();
+		while (it.hasNext()) {
+			availableFactors++;
+			pairsYearValue = (Map.Entry<Integer, Double>) it.next();
+			totalGrowth += pairsYearValue.getValue();
+		}
+		averageGrowth = totalGrowth / availableFactors;
+		service.put(9999, averageGrowth);
+
+		totalGrowth = 0.0;
+		averageGrowth = 0.0;
+		availableFactors = 0;
+		it = agriculture.entrySet().iterator();
+		while (it.hasNext()) {
+			availableFactors++;
+			pairsYearValue = (Map.Entry<Integer, Double>) it.next();
+			totalGrowth += pairsYearValue.getValue();
+		}
+		averageGrowth = totalGrowth / availableFactors;
+		agriculture.put(9999, averageGrowth);
+
+		// Calculate per year score considering weights of each factor
+		int weight20 = 20;
+		int weight12 = 12;
+		Double yearScore;
+
+		for (int year = 2000; year < 2013; year++) {
+			availableFactors = 0;
+			yearScore = 0.0;
+
+			// year score = normalized growth of a factor X weight of the factor
+
+			if (industry.containsKey(year)) {
+				// if (industry.get(year) > industry.get(9999))
+				yearScore += ((industry.get(year) / industry.get(9999)) * 10) * weight20;
+				// else
+				// yearScore = yearScore - ((industry.get(year) /
+				// industry.get(9999)) * 10) * weight20;
+				availableFactors += weight20;
+			}
+			if (female.containsKey(year)) {
+				// if (female.get(year) > female.get(9999))
+				yearScore += ((female.get(year) / female.get(9999)) * 10) * weight12;
+				// else
+				// yearScore -= ((female.get(year) / female.get(9999)) * 10) *
+				// weight12;
+				availableFactors += weight12;
+			}
+			if (male.containsKey(year)) {
+				// if (male.get(year) > male.get(9999))
+				yearScore += ((male.get(year) / male.get(9999)) * 10) * weight12;
+				// else
+				// yearScore -= ((male.get(year) / male.get(9999)) * 10) *
+				// weight12;
+				availableFactors += weight12;
+			}
+			if (mining.containsKey(year)) {
+				// if (mining.get(year) > mining.get(9999))
+				yearScore += ((mining.get(year) / mining.get(9999)) * 10) * weight12;
+				// else
+				// yearScore -= ((mining.get(year) / mining.get(9999)) * 10) *
+				// weight12;
+				availableFactors += weight12;
+			}
+			if (manufacturing.containsKey(year)) {
+				// if (manufacturing.get(year) > manufacturing.get(9999))
+				yearScore += ((manufacturing.get(year) / manufacturing.get(9999)) * 10) * weight12;
+				// else
+				// yearScore -= ((manufacturing.get(year) /
+				// manufacturing.get(9999)) * 10) * weight12;
+				availableFactors += weight12;
+			}
+			if (service.containsKey(year)) {
+				// if (service.get(year) > service.get(9999))
+				yearScore += ((service.get(year) / service.get(9999)) * 10) * weight12;
+				// else
+				// yearScore -= ((service.get(year) / service.get(9999)) * 10) *
+				// weight12;
+				availableFactors += weight12;
+			}
+			if (agriculture.containsKey(year)) {
+				// if (agriculture.get(year) > agriculture.get(9999))
+				yearScore += ((agriculture.get(year) / agriculture.get(9999)) * 10) * weight20;
+				// else
+				// yearScore -= ((agriculture.get(year) / agriculture.get(9999))
+				// * 10) * weight20;
+				availableFactors += weight20;
+			}
+
+			yearBasedScore.put(year, yearScore / (availableFactors));
+		}
 	}
 
-	public static String getCMNewsData(String CM) {
+	public static Double getCMPredictedScore() {
+		Double score = 0.0;
 
-		return "something";
+		return score;
 	}
 
 	public static List<String> getCMFromDBpedia(int year, String state) {
