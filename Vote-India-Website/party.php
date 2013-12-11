@@ -35,46 +35,46 @@
 											Party Members
 											
 											<li>
-												<a href="#">N. Kiran Kumar Reddy - Andhra Pradesh</a>
+												<a href="/vote-india-website/cm.php?name=">N. Kiran Kumar Reddy - Andhra Pradesh</a>
 											</li>
 											<li>
-												<a href="#">Nabam Tuki - Arunachal Pradesh</a>
+												<a href="/vote-india-website/cm.php?name=Nabam_Tuki">Nabam Tuki - Arunachal Pradesh</a>
 											</li>
 											<li>
-												<a href="#">Tarun Gogoi - Assam</a>
+												<a href="/vote-india-website/cm.php?name=Tarun_Gogoi">Tarun Gogoi - Assam</a>
 											</li>
 											<li>
-												<a href="#">Sheila Dikshit - Delhi</a>
+												<a href="/vote-india-website/cm.php?name=Sheila_Dikshit">Sheila Dikshit - Delhi</a>
 											</li>
 											<li>
-												<a href="#">Bhupinder Singh Hooda - Haryana</a>
+												<a href="/vote-india-website/cm.php?name=">Bhupinder Singh Hooda - Haryana</a>
 											</li>
 											<li>
-												<a href="#">Virbhadra Singh - Himachal Pradesh</a>
+												<a href="/vote-india-website/cm.php?name=">Virbhadra Singh - Himachal Pradesh</a>
 											</li>
 											<li>
-												<a href="#">Siddaramaiah - Karnataka</a>
+												<a href="/vote-india-website/cm.php?name=">Siddaramaiah - Karnataka</a>
 											</li>
 											<li>
-												<a href="#">Oommen Chandy - Kerala</a>
+												<a href="/vote-india-website/cm.php?name=">Oommen Chandy - Kerala</a>
 											</li>
 											<li>
-												<a href="http://localhost:8888/vote-india-website/cm.php?name=Prithviraj_Chavan">Prithviraj Chavan - Maharashtra</a>
+												<a href="/vote-india-website/cm.php?name=Prithviraj_Chavan">Prithviraj Chavan - Maharashtra</a>
 											</li>
 											<li>
-												<a href="#">Okram Singh - Manipur</a>
+												<a href="/vote-india-website/cm.php?name=">Okram Singh - Manipur</a>
 											</li>
 											<li>
-												<a href="#">Mukul Sangma - Meghalaya</a>
+												<a href="/vote-india-website/cm.php?name=">Mukul Sangma - Meghalaya</a>
 											</li>
 											<li>
-												<a href="#">Pu Lalthanhawla - Mizoram</a>
+												<a href="/vote-india-website/cm.php?name=">Pu Lalthanhawla - Mizoram</a>
 											</li>
 											<li>
-												<a href="#">Ashok Gehlot - Rajasthan</a>
+												<a href="/vote-india-website/cm.php?name=">Ashok Gehlot - Rajasthan</a>
 											</li>
 											<li>
-												<a href="#">Vijay Bahuguna - Uttarakhand</a>
+												<a href="/vote-india-website/cm.php?name=">Vijay Bahuguna - Uttarakhand</a>
 											</li>
 										</ul>
 
